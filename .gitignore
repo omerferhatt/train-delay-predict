@@ -1,2 +1,8 @@
 # Project exclude paths
-/data/
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/other.xml
+.idea/train-delay-predict.iml
+.idea/vcs.xml

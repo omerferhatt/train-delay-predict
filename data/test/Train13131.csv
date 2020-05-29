@@ -1,0 +1,828 @@
+actarr_date,day,station_code,station_name,scharr_date,scharr,actarr,latemin,status,schdep,actdep,distance,has_departed,has_arrived,weekday,month
+15 Aug 2017,0,KOAA,KOLKATA,15 Aug 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Tuesday,Aug
+15 Aug 2017,0,NH,NAIHATI JN,15 Aug 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Tuesday,Aug
+15 Aug 2017,0,BDC,BANDEL JN,15 Aug 2017,21:10,21:12,2,2 mins late,21:15,21:15,42,True,True,Tuesday,Aug
+15 Aug 2017,0,BWN,BARDDHAMAN,15 Aug 2017,22:17,22:12,-5,-5 mins late,22:22,22:22,109,True,True,Tuesday,Aug
+15 Aug 2017,0,DGR,DURGAPUR,15 Aug 2017,23:04,23:13,9,9 mins late,23:06,23:15,173,True,True,Tuesday,Aug
+15 Aug 2017,0,RNG,RANIGANJ,15 Aug 2017,23:25,23:39,14,14 mins late,23:27,23:42,198,True,True,Tuesday,Aug
+15 Aug 2017,1,ASN,ASANSOL JN,15 Aug 2017,23:47,23:57,10,10 mins late,23:52,00:05,216,True,True,Tuesday,Aug
+16 Aug 2017,1,CRJ,CHITTARANJAN,16 Aug 2017,00:16,00:28,12,12 mins late,00:17,00:29,241,True,True,Wednesday,Aug
+16 Aug 2017,1,JMT,JAMTARA,16 Aug 2017,00:30,00:42,12,12 mins late,00:31,00:43,255,False,False,Wednesday,Aug
+16 Aug 2017,1,MDP,MADHUPUR JN,16 Aug 2017,01:17,01:12,-5,-5 mins late,01:57,01:58,297,True,True,Wednesday,Aug
+16 Aug 2017,1,JSME,JASIDIH JN,16 Aug 2017,02:23,02:20,-3,-3 mins late,02:28,02:30,326,True,True,Wednesday,Aug
+16 Aug 2017,1,STL,SIMULTALA,16 Aug 2017,02:48,02:50,2,2 mins late,02:50,02:52,351,False,False,Wednesday,Aug
+16 Aug 2017,1,JAJ,JHAJHA,16 Aug 2017,03:20,03:42,22,22 mins late,03:25,03:47,370,True,True,Wednesday,Aug
+16 Aug 2017,1,GHR,GIDHAUR,16 Aug 2017,03:35,03:58,23,23 mins late,03:37,04:00,382,True,True,Wednesday,Aug
+16 Aug 2017,1,JMU,JAMUI,16 Aug 2017,03:49,04:15,26,26 mins late,03:51,04:17,396,True,True,Wednesday,Aug
+16 Aug 2017,1,BFM,BHALUI,16 Aug 2017,04:00,04:25,25,25 mins late,04:01,04:26,405,True,True,Wednesday,Aug
+16 Aug 2017,1,MNP,MANANPUR,16 Aug 2017,04:07,04:33,26,26 mins late,04:09,04:35,410,True,True,Wednesday,Aug
+16 Aug 2017,1,BSQP,BANSIPUR,16 Aug 2017,04:17,04:42,25,25 mins late,04:19,04:43,416,True,True,Wednesday,Aug
+16 Aug 2017,1,KIUL,KIUL JN,16 Aug 2017,04:42,04:52,10,10 mins late,04:44,04:54,424,True,True,Wednesday,Aug
+16 Aug 2017,1,LKR,LUCKEESARAI JN,16 Aug 2017,04:50,05:00,10,10 mins late,04:52,05:01,425,True,True,Wednesday,Aug
+16 Aug 2017,1,MKB,MANKATHA,16 Aug 2017,04:58,05:07,9,9 mins late,05:00,05:09,431,True,True,Wednesday,Aug
+16 Aug 2017,1,DMRX,DUMRI,16 Aug 2017,05:09,05:18,9,9 mins late,05:10,05:19,436,False,False,Wednesday,Aug
+16 Aug 2017,1,BRYA,BARHIYA,16 Aug 2017,05:14,05:23,9,9 mins late,05:16,05:25,440,True,True,Wednesday,Aug
+16 Aug 2017,1,RDUM,RAMPUR DUMRA,16 Aug 2017,05:22,05:30,8,8 mins late,05:24,05:31,446,True,True,Wednesday,Aug
+16 Aug 2017,1,HTZ,HATHIDAH JN,16 Aug 2017,05:30,05:36,6,6 mins late,05:32,05:38,451,True,True,Wednesday,Aug
+16 Aug 2017,1,ANAH,AUNTA HALT,16 Aug 2017,05:36,05:42,6,6 mins late,05:38,05:44,454,False,False,Wednesday,Aug
+16 Aug 2017,1,MKA,MOKAMEH JN,16 Aug 2017,05:46,05:50,4,4 mins late,05:48,05:52,458,True,True,Wednesday,Aug
+16 Aug 2017,1,MOR,MOR,16 Aug 2017,05:54,05:58,4,4 mins late,05:58,05:59,465,False,False,Wednesday,Aug
+16 Aug 2017,1,KNHP,KANHAIPUR,16 Aug 2017,06:03,06:04,1,1 mins late,06:05,06:06,469,False,False,Wednesday,Aug
+16 Aug 2017,1,MMKB,MEKRA MAMARKHABAD,16 Aug 2017,06:08,06:09,1,1 mins late,06:10,06:11,471,False,False,Wednesday,Aug
+16 Aug 2017,1,PHK,PUNARAKH,16 Aug 2017,06:14,06:15,1,1 mins late,06:16,06:17,474,False,False,Wednesday,Aug
+16 Aug 2017,1,BARH,BARH,16 Aug 2017,06:25,06:26,1,1 mins late,06:27,06:28,484,False,False,Wednesday,Aug
+16 Aug 2017,1,ATL,ATHMAL GOLA,16 Aug 2017,06:35,06:36,1,1 mins late,06:37,06:38,493,False,False,Wednesday,Aug
+16 Aug 2017,1,BKP,BAKHTIYARPUR JN,16 Aug 2017,06:49,06:49,0,0 mins late,06:54,06:54,502,True,True,Wednesday,Aug
+16 Aug 2017,1,TKBG,TEKA BIGHA(H),16 Aug 2017,06:59,06:59,0,0 mins late,07:00,07:00,506,False,False,Wednesday,Aug
+16 Aug 2017,1,KWO,KARAUTA,16 Aug 2017,07:08,07:08,0,0 mins late,07:10,07:10,511,False,False,Wednesday,Aug
+16 Aug 2017,1,KOO,KHUSROPUR,16 Aug 2017,07:16,07:16,0,0 mins late,07:18,07:18,517,False,False,Wednesday,Aug
+16 Aug 2017,1,FUT,FATUHA,16 Aug 2017,07:26,07:26,0,0 mins late,07:28,07:28,525,False,False,Wednesday,Aug
+16 Aug 2017,1,BKG,BANKA GHAT,16 Aug 2017,07:35,07:35,0,0 mins late,07:37,07:37,531,False,False,Wednesday,Aug
+16 Aug 2017,1,PNC,PATNA SAHEB,16 Aug 2017,07:42,07:42,0,0 mins late,07:44,07:44,537,False,False,Wednesday,Aug
+16 Aug 2017,1,GZH,GULZARBAGH,16 Aug 2017,07:50,07:50,0,0 mins late,07:52,07:52,540,False,False,Wednesday,Aug
+16 Aug 2017,1,RJPB,RAJENDRANAGAR T,16 Aug 2017,08:01,08:01,0,0 mins late,08:03,08:03,545,False,False,Wednesday,Aug
+16 Aug 2017,1,PNBE,PATNA JN,16 Aug 2017,08:25,08:25,0,0 mins late,Destination,00:00,547,False,True,Wednesday,Aug
+17 Aug 2017,0,KOAA,KOLKATA,17 Aug 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Thursday,Aug
+17 Aug 2017,0,NH,NAIHATI JN,17 Aug 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Thursday,Aug
+17 Aug 2017,0,BDC,BANDEL JN,17 Aug 2017,21:10,21:15,5,5 mins late,21:15,21:19,42,True,True,Thursday,Aug
+17 Aug 2017,0,BWN,BARDDHAMAN,17 Aug 2017,22:17,22:43,26,26 mins late,22:22,22:44,109,False,False,Thursday,Aug
+17 Aug 2017,0,DGR,DURGAPUR,17 Aug 2017,23:04,23:45,41,41 mins late,23:06,23:46,173,True,True,Thursday,Aug
+18 Aug 2017,1,RNG,RANIGANJ,17 Aug 2017,23:25,00:04,39,39 mins late,23:27,00:06,198,True,True,Friday,Aug
+18 Aug 2017,1,ASN,ASANSOL JN,17 Aug 2017,23:47,00:21,34,34 mins late,23:52,00:30,216,True,True,Friday,Aug
+18 Aug 2017,1,CRJ,CHITTARANJAN,18 Aug 2017,00:16,00:58,42,42 mins late,00:17,00:59,241,True,True,Friday,Aug
+18 Aug 2017,1,JMT,JAMTARA,18 Aug 2017,00:30,01:10,40,40 mins late,00:31,01:11,255,True,True,Friday,Aug
+18 Aug 2017,1,MDP,MADHUPUR JN,18 Aug 2017,01:17,01:40,23,23 mins late,01:57,02:10,297,True,True,Friday,Aug
+18 Aug 2017,1,JSME,JASIDIH JN,18 Aug 2017,02:23,02:34,11,11 mins late,02:28,02:39,326,False,False,Friday,Aug
+18 Aug 2017,1,STL,SIMULTALA,18 Aug 2017,02:48,02:59,11,11 mins late,02:50,03:01,351,False,False,Friday,Aug
+18 Aug 2017,1,JAJ,JHAJHA,18 Aug 2017,03:20,04:07,47,47 mins late,03:25,04:12,370,True,True,Friday,Aug
+18 Aug 2017,1,GHR,GIDHAUR,18 Aug 2017,03:35,04:24,49,49 mins late,03:37,04:26,382,True,True,Friday,Aug
+18 Aug 2017,1,JMU,JAMUI,18 Aug 2017,03:49,04:39,50,50 mins late,03:51,04:55,396,True,True,Friday,Aug
+18 Aug 2017,1,BFM,BHALUI,18 Aug 2017,04:00,05:05,65,65 mins late,04:01,05:06,405,True,True,Friday,Aug
+18 Aug 2017,1,MNP,MANANPUR,18 Aug 2017,04:07,05:13,66,66 mins late,04:09,05:15,410,True,True,Friday,Aug
+18 Aug 2017,1,BSQP,BANSIPUR,18 Aug 2017,04:17,05:25,68,68 mins late,04:19,05:27,416,True,True,Friday,Aug
+18 Aug 2017,1,KIUL,KIUL JN,18 Aug 2017,04:42,05:36,54,54 mins late,04:44,05:38,424,True,True,Friday,Aug
+18 Aug 2017,1,LKR,LUCKEESARAI JN,18 Aug 2017,04:50,05:46,56,56 mins late,04:52,05:48,425,True,True,Friday,Aug
+18 Aug 2017,1,MKB,MANKATHA,18 Aug 2017,04:58,05:56,58,58 mins late,05:00,05:58,431,True,True,Friday,Aug
+18 Aug 2017,1,DMRX,DUMRI,18 Aug 2017,05:09,06:07,58,58 mins late,05:10,06:08,436,False,False,Friday,Aug
+18 Aug 2017,1,BRYA,BARHIYA,18 Aug 2017,05:14,06:09,55,55 mins late,05:16,06:11,440,True,True,Friday,Aug
+18 Aug 2017,1,RDUM,RAMPUR DUMRA,18 Aug 2017,05:22,06:17,55,55 mins late,05:24,06:18,446,True,True,Friday,Aug
+18 Aug 2017,1,HTZ,HATHIDAH JN,18 Aug 2017,05:30,06:25,55,55 mins late,05:32,06:27,451,True,True,Friday,Aug
+18 Aug 2017,1,ANAH,AUNTA HALT,18 Aug 2017,05:36,06:31,55,55 mins late,05:38,06:33,454,False,False,Friday,Aug
+18 Aug 2017,1,MKA,MOKAMEH JN,18 Aug 2017,05:46,06:41,55,55 mins late,05:48,06:43,458,True,True,Friday,Aug
+18 Aug 2017,1,MOR,MOR,18 Aug 2017,05:54,06:53,59,59 mins late,05:58,06:55,465,True,True,Friday,Aug
+18 Aug 2017,1,KNHP,KANHAIPUR,18 Aug 2017,06:03,07:00,57,57 mins late,06:05,07:01,469,False,False,Friday,Aug
+18 Aug 2017,1,MMKB,MEKRA MAMARKHABAD,18 Aug 2017,06:08,07:04,56,56 mins late,06:10,07:06,471,False,False,Friday,Aug
+18 Aug 2017,1,PHK,PUNARAKH,18 Aug 2017,06:14,07:11,57,57 mins late,06:16,07:12,474,True,True,Friday,Aug
+18 Aug 2017,1,BARH,BARH,18 Aug 2017,06:25,07:22,57,57 mins late,06:27,07:24,484,True,True,Friday,Aug
+18 Aug 2017,1,ATL,ATHMAL GOLA,18 Aug 2017,06:35,07:32,57,57 mins late,06:37,07:34,493,True,True,Friday,Aug
+18 Aug 2017,1,BKP,BAKHTIYARPUR JN,18 Aug 2017,06:49,07:42,53,53 mins late,06:54,07:55,502,True,True,Friday,Aug
+18 Aug 2017,1,TKBG,TEKA BIGHA(H),18 Aug 2017,06:59,08:05,66,66 mins late,07:00,08:12,506,True,True,Friday,Aug
+18 Aug 2017,1,KWO,KARAUTA,18 Aug 2017,07:08,08:19,71,71 mins late,07:10,08:21,511,True,True,Friday,Aug
+18 Aug 2017,1,KOO,KHUSROPUR,18 Aug 2017,07:16,08:33,77,77 mins late,07:18,08:40,517,True,True,Friday,Aug
+18 Aug 2017,1,FUT,FATUHA,18 Aug 2017,07:26,08:57,91,91 mins late,07:28,09:00,525,True,True,Friday,Aug
+18 Aug 2017,1,BKG,BANKA GHAT,18 Aug 2017,07:35,09:11,96,96 mins late,07:37,09:15,531,True,True,Friday,Aug
+18 Aug 2017,1,PNC,PATNA SAHEB,18 Aug 2017,07:42,09:22,100,100 mins late,07:44,09:24,537,True,True,Friday,Aug
+18 Aug 2017,1,GZH,GULZARBAGH,18 Aug 2017,07:50,09:31,101,101 mins late,07:52,09:36,540,True,True,Friday,Aug
+18 Aug 2017,1,RJPB,RAJENDRANAGAR T,18 Aug 2017,08:01,09:43,102,102 mins late,08:03,09:45,545,True,True,Friday,Aug
+18 Aug 2017,1,PNBE,PATNA JN,18 Aug 2017,08:25,09:53,88,88 mins late,Destination,00:00,547,False,True,Friday,Aug
+19 Aug 2017,0,KOAA,KOLKATA,19 Aug 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Saturday,Aug
+19 Aug 2017,0,NH,NAIHATI JN,19 Aug 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Saturday,Aug
+19 Aug 2017,0,BDC,BANDEL JN,19 Aug 2017,21:10,21:05,-5,-5 mins late,21:15,21:15,42,True,True,Saturday,Aug
+19 Aug 2017,0,BWN,BARDDHAMAN,19 Aug 2017,22:17,22:22,5,5 mins late,22:22,22:23,109,True,True,Saturday,Aug
+19 Aug 2017,0,DGR,DURGAPUR,19 Aug 2017,23:04,23:11,7,7 mins late,23:06,23:13,173,True,True,Saturday,Aug
+19 Aug 2017,0,RNG,RANIGANJ,19 Aug 2017,23:25,23:34,9,9 mins late,23:27,23:35,198,True,True,Saturday,Aug
+19 Aug 2017,1,ASN,ASANSOL JN,19 Aug 2017,23:47,23:54,7,7 mins late,23:52,00:09,216,True,True,Saturday,Aug
+20 Aug 2017,1,CRJ,CHITTARANJAN,20 Aug 2017,00:16,00:38,22,22 mins late,00:17,00:39,241,True,True,Sunday,Aug
+20 Aug 2017,1,JMT,JAMTARA,20 Aug 2017,00:30,00:53,23,23 mins late,00:31,00:54,255,True,True,Sunday,Aug
+20 Aug 2017,1,MDP,MADHUPUR JN,20 Aug 2017,01:17,01:32,15,15 mins late,01:57,02:07,297,True,True,Sunday,Aug
+20 Aug 2017,1,JSME,JASIDIH JN,20 Aug 2017,02:23,02:31,8,8 mins late,02:28,02:36,326,False,False,Sunday,Aug
+20 Aug 2017,1,STL,SIMULTALA,20 Aug 2017,02:48,02:56,8,8 mins late,02:50,02:58,351,False,False,Sunday,Aug
+20 Aug 2017,1,JAJ,JHAJHA,20 Aug 2017,03:20,03:25,5,5 mins late,03:25,03:30,370,True,True,Sunday,Aug
+20 Aug 2017,1,GHR,GIDHAUR,20 Aug 2017,03:35,03:43,8,8 mins late,03:37,03:45,382,True,True,Sunday,Aug
+20 Aug 2017,1,JMU,JAMUI,20 Aug 2017,03:49,03:57,8,8 mins late,03:51,03:59,396,True,True,Sunday,Aug
+20 Aug 2017,1,BFM,BHALUI,20 Aug 2017,04:00,04:07,7,7 mins late,04:01,04:08,405,True,True,Sunday,Aug
+20 Aug 2017,1,MNP,MANANPUR,20 Aug 2017,04:07,04:16,9,9 mins late,04:09,04:29,410,True,True,Sunday,Aug
+20 Aug 2017,1,BSQP,BANSIPUR,20 Aug 2017,04:17,04:38,21,21 mins late,04:19,04:39,416,True,True,Sunday,Aug
+20 Aug 2017,1,KIUL,KIUL JN,20 Aug 2017,04:42,04:51,9,9 mins late,04:44,04:53,424,True,True,Sunday,Aug
+20 Aug 2017,1,LKR,LUCKEESARAI JN,20 Aug 2017,04:50,05:01,11,11 mins late,04:52,05:03,425,True,True,Sunday,Aug
+20 Aug 2017,1,MKB,MANKATHA,20 Aug 2017,04:58,05:08,10,10 mins late,05:00,05:10,431,True,True,Sunday,Aug
+20 Aug 2017,1,DMRX,DUMRI,20 Aug 2017,05:09,05:19,10,10 mins late,05:10,05:20,436,False,False,Sunday,Aug
+20 Aug 2017,1,BRYA,BARHIYA,20 Aug 2017,05:14,05:25,11,11 mins late,05:16,05:27,440,True,True,Sunday,Aug
+20 Aug 2017,1,RDUM,RAMPUR DUMRA,20 Aug 2017,05:22,05:33,11,11 mins late,05:24,05:35,446,True,True,Sunday,Aug
+20 Aug 2017,1,HTZ,HATHIDAH JN,20 Aug 2017,05:30,05:42,12,12 mins late,05:32,05:47,451,True,True,Sunday,Aug
+20 Aug 2017,1,ANAH,AUNTA HALT,20 Aug 2017,05:36,05:54,18,18 mins late,05:38,05:55,454,False,False,Sunday,Aug
+20 Aug 2017,1,MKA,MOKAMEH JN,20 Aug 2017,05:46,06:04,18,18 mins late,05:48,06:06,458,True,True,Sunday,Aug
+20 Aug 2017,1,MOR,MOR,20 Aug 2017,05:54,06:16,22,22 mins late,05:58,06:17,465,True,True,Sunday,Aug
+20 Aug 2017,1,KNHP,KANHAIPUR,20 Aug 2017,06:03,06:22,19,19 mins late,06:05,06:23,469,False,False,Sunday,Aug
+20 Aug 2017,1,MMKB,MEKRA MAMARKHABAD,20 Aug 2017,06:08,06:26,18,18 mins late,06:10,06:28,471,False,False,Sunday,Aug
+20 Aug 2017,1,PHK,PUNARAKH,20 Aug 2017,06:14,06:40,26,26 mins late,06:16,06:41,474,True,True,Sunday,Aug
+20 Aug 2017,1,BARH,BARH,20 Aug 2017,06:25,06:55,30,30 mins late,06:27,06:57,484,True,True,Sunday,Aug
+20 Aug 2017,1,ATL,ATHMAL GOLA,20 Aug 2017,06:35,07:09,34,34 mins late,06:37,07:11,493,True,True,Sunday,Aug
+20 Aug 2017,1,BKP,BAKHTIYARPUR JN,20 Aug 2017,06:49,07:19,30,30 mins late,06:54,07:21,502,True,True,Sunday,Aug
+19 Aug 2017,1,TKBG,TEKA BIGHA(H),20 Aug 2017,06:59,07:26,27,27 mins late,07:00,07:26,506,True,True,Saturday,Aug
+20 Aug 2017,1,KWO,KARAUTA,20 Aug 2017,07:08,07:34,26,26 mins late,07:10,07:35,511,True,True,Sunday,Aug
+20 Aug 2017,1,KOO,KHUSROPUR,20 Aug 2017,07:16,07:40,24,24 mins late,07:18,07:41,517,True,True,Sunday,Aug
+20 Aug 2017,1,FUT,FATUHA,20 Aug 2017,07:26,07:47,21,21 mins late,07:28,07:48,525,True,True,Sunday,Aug
+20 Aug 2017,1,BKG,BANKA GHAT,20 Aug 2017,07:35,07:53,18,18 mins late,07:37,07:54,531,True,True,Sunday,Aug
+20 Aug 2017,1,PNC,PATNA SAHEB,20 Aug 2017,07:42,07:59,17,17 mins late,07:44,08:00,537,True,True,Sunday,Aug
+20 Aug 2017,1,GZH,GULZARBAGH,20 Aug 2017,07:50,08:05,15,15 mins late,07:52,08:06,540,True,True,Sunday,Aug
+20 Aug 2017,1,RJPB,RAJENDRANAGAR T,20 Aug 2017,08:01,08:11,10,10 mins late,08:03,08:12,545,True,True,Sunday,Aug
+20 Aug 2017,1,PNBE,PATNA JN,20 Aug 2017,08:25,08:25,0,0 mins late,Destination,00:00,547,False,True,Sunday,Aug
+3 Sep 2017,0,KOAA,KOLKATA,3 Sep 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Sunday,Sep
+3 Sep 2017,0,NH,NAIHATI JN,3 Sep 2017,20:43,20:41,-2,-2 mins late,20:45,20:45,33,True,True,Sunday,Sep
+3 Sep 2017,0,BDC,BANDEL JN,3 Sep 2017,21:10,21:08,-2,-2 mins late,21:15,21:15,42,True,True,Sunday,Sep
+3 Sep 2017,0,BWN,BARDDHAMAN,3 Sep 2017,22:17,22:17,0,0 mins late,22:22,22:22,109,False,False,Sunday,Sep
+3 Sep 2017,0,DGR,DURGAPUR,3 Sep 2017,23:04,23:19,15,15 mins late,23:06,23:21,173,True,True,Sunday,Sep
+3 Sep 2017,0,RNG,RANIGANJ,3 Sep 2017,23:25,23:40,15,15 mins late,23:27,23:43,198,True,True,Sunday,Sep
+4 Sep 2017,1,ASN,ASANSOL JN,3 Sep 2017,23:47,00:06,19,19 mins late,23:52,00:11,216,True,True,Monday,Sep
+4 Sep 2017,1,CRJ,CHITTARANJAN,4 Sep 2017,00:16,00:46,30,30 mins late,00:17,00:48,241,True,True,Monday,Sep
+4 Sep 2017,1,JMT,JAMTARA,4 Sep 2017,00:30,00:59,29,29 mins late,00:31,01:00,255,True,True,Monday,Sep
+4 Sep 2017,1,MDP,MADHUPUR JN,4 Sep 2017,01:17,01:29,12,12 mins late,01:57,02:15,297,True,True,Monday,Sep
+4 Sep 2017,1,JSME,JASIDIH JN,4 Sep 2017,02:23,02:39,16,16 mins late,02:28,02:44,326,False,False,Monday,Sep
+4 Sep 2017,1,STL,SIMULTALA,4 Sep 2017,02:48,03:04,16,16 mins late,02:50,03:06,351,False,False,Monday,Sep
+4 Sep 2017,1,JAJ,JHAJHA,4 Sep 2017,03:20,03:53,33,33 mins late,03:25,03:58,370,True,True,Monday,Sep
+4 Sep 2017,1,GHR,GIDHAUR,4 Sep 2017,03:35,04:15,40,40 mins late,03:37,05:01,382,True,True,Monday,Sep
+4 Sep 2017,1,JMU,JAMUI,4 Sep 2017,03:49,05:31,102,102 mins late,03:51,06:05,396,True,True,Monday,Sep
+4 Sep 2017,1,BFM,BHALUI,4 Sep 2017,04:00,06:13,133,133 mins late,04:01,06:14,405,True,True,Monday,Sep
+4 Sep 2017,1,MNP,MANANPUR,4 Sep 2017,04:07,06:21,134,134 mins late,04:09,06:23,410,True,True,Monday,Sep
+4 Sep 2017,1,BSQP,BANSIPUR,4 Sep 2017,04:17,06:31,134,134 mins late,04:19,06:32,416,True,True,Monday,Sep
+4 Sep 2017,1,KIUL,KIUL JN,4 Sep 2017,04:42,06:42,120,120 mins late,04:44,06:44,424,True,True,Monday,Sep
+4 Sep 2017,1,LKR,LUCKEESARAI JN,4 Sep 2017,04:50,06:52,122,122 mins late,04:52,06:54,425,True,True,Monday,Sep
+4 Sep 2017,1,MKB,MANKATHA,4 Sep 2017,04:58,07:00,122,122 mins late,05:00,07:01,431,True,True,Monday,Sep
+4 Sep 2017,1,DMRX,DUMRI,4 Sep 2017,05:09,07:10,121,121 mins late,05:10,07:11,436,False,False,Monday,Sep
+4 Sep 2017,1,BRYA,BARHIYA,4 Sep 2017,05:14,07:12,118,118 mins late,05:16,07:14,440,True,True,Monday,Sep
+4 Sep 2017,1,RDUM,RAMPUR DUMRA,4 Sep 2017,05:22,07:20,118,118 mins late,05:24,07:21,446,True,True,Monday,Sep
+4 Sep 2017,1,HTZ,HATHIDAH JN,4 Sep 2017,05:30,07:28,118,118 mins late,05:32,07:30,451,True,True,Monday,Sep
+4 Sep 2017,1,ANAH,AUNTA HALT,4 Sep 2017,05:36,07:34,118,118 mins late,05:38,07:36,454,False,False,Monday,Sep
+4 Sep 2017,1,MKA,MOKAMEH JN,4 Sep 2017,05:46,07:43,117,117 mins late,05:48,07:45,458,True,True,Monday,Sep
+4 Sep 2017,1,MOR,MOR,4 Sep 2017,05:54,07:54,120,120 mins late,05:58,07:56,465,True,True,Monday,Sep
+4 Sep 2017,1,KNHP,KANHAIPUR,4 Sep 2017,06:03,08:01,118,118 mins late,06:05,08:02,469,False,False,Monday,Sep
+4 Sep 2017,1,MMKB,MEKRA MAMARKHABAD,4 Sep 2017,06:08,08:05,117,117 mins late,06:10,08:07,471,False,False,Monday,Sep
+4 Sep 2017,1,PHK,PUNARAKH,4 Sep 2017,06:14,08:08,114,114 mins late,06:16,08:10,474,True,True,Monday,Sep
+4 Sep 2017,1,BARH,BARH,4 Sep 2017,06:25,08:19,114,114 mins late,06:27,08:21,484,True,True,Monday,Sep
+4 Sep 2017,1,ATL,ATHMAL GOLA,4 Sep 2017,06:35,08:30,115,115 mins late,06:37,08:32,493,True,True,Monday,Sep
+4 Sep 2017,1,BKP,BAKHTIYARPUR JN,4 Sep 2017,06:49,08:42,113,113 mins late,06:54,08:44,502,True,True,Monday,Sep
+4 Sep 2017,1,TKBG,TEKA BIGHA(H),4 Sep 2017,06:59,08:51,112,112 mins late,07:00,08:52,506,True,True,Monday,Sep
+4 Sep 2017,1,KWO,KARAUTA,4 Sep 2017,07:08,09:03,115,115 mins late,07:10,09:05,511,True,True,Monday,Sep
+4 Sep 2017,1,KOO,KHUSROPUR,4 Sep 2017,07:16,09:15,119,119 mins late,07:18,09:17,517,True,True,Monday,Sep
+4 Sep 2017,1,FUT,FATUHA,4 Sep 2017,07:26,09:25,119,119 mins late,07:28,09:27,525,True,True,Monday,Sep
+4 Sep 2017,1,BKG,BANKA GHAT,4 Sep 2017,07:35,09:38,123,123 mins late,07:37,09:40,531,True,True,Monday,Sep
+4 Sep 2017,1,PNC,PATNA SAHEB,4 Sep 2017,07:42,09:52,130,130 mins late,07:44,09:54,537,True,True,Monday,Sep
+4 Sep 2017,1,GZH,GULZARBAGH,4 Sep 2017,07:50,09:59,129,129 mins late,07:52,10:01,540,True,True,Monday,Sep
+4 Sep 2017,1,RJPB,RAJENDRANAGAR T,4 Sep 2017,08:01,10:07,126,126 mins late,08:03,10:09,545,True,True,Monday,Sep
+4 Sep 2017,1,PNBE,PATNA JN,4 Sep 2017,08:25,10:17,112,112 mins late,Destination,00:00,547,False,True,Monday,Sep
+9 Sep 2017,0,KOAA,KOLKATA,9 Sep 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Saturday,Sep
+9 Sep 2017,0,NH,NAIHATI JN,9 Sep 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Saturday,Sep
+9 Sep 2017,0,BDC,BANDEL JN,9 Sep 2017,21:10,21:15,5,5 mins late,21:15,21:20,42,True,True,Saturday,Sep
+9 Sep 2017,0,BWN,BARDDHAMAN,9 Sep 2017,22:17,22:46,29,29 mins late,22:22,22:54,109,True,True,Saturday,Sep
+10 Sep 2017,1,DGR,DURGAPUR,9 Sep 2017,23:04,00:01,57,57 mins late,23:06,00:03,173,True,True,Sunday,Sep
+10 Sep 2017,1,RNG,RANIGANJ,9 Sep 2017,23:25,00:24,59,59 mins late,23:27,00:26,198,True,True,Sunday,Sep
+10 Sep 2017,1,ASN,ASANSOL JN,9 Sep 2017,23:47,00:45,58,58 mins late,23:52,00:54,216,True,True,Sunday,Sep
+10 Sep 2017,1,CRJ,CHITTARANJAN,10 Sep 2017,00:16,01:30,74,74 mins late,00:17,01:32,241,True,True,Sunday,Sep
+10 Sep 2017,1,JMT,JAMTARA,10 Sep 2017,00:30,01:45,75,75 mins late,00:31,01:46,255,True,True,Sunday,Sep
+10 Sep 2017,1,MDP,MADHUPUR JN,10 Sep 2017,01:17,02:28,71,71 mins late,01:57,02:50,297,True,True,Sunday,Sep
+10 Sep 2017,1,JSME,JASIDIH JN,10 Sep 2017,02:23,03:14,51,51 mins late,02:28,03:19,326,False,False,Sunday,Sep
+10 Sep 2017,1,STL,SIMULTALA,10 Sep 2017,02:48,03:39,51,51 mins late,02:50,03:41,351,False,False,Sunday,Sep
+10 Sep 2017,1,JAJ,JHAJHA,10 Sep 2017,03:20,04:35,75,75 mins late,03:25,04:45,370,True,True,Sunday,Sep
+10 Sep 2017,1,GHR,GIDHAUR,10 Sep 2017,03:35,04:59,84,84 mins late,03:37,05:01,382,True,True,Sunday,Sep
+10 Sep 2017,1,JMU,JAMUI,10 Sep 2017,03:49,05:20,91,91 mins late,03:51,05:40,396,True,True,Sunday,Sep
+10 Sep 2017,1,BFM,BHALUI,10 Sep 2017,04:00,05:54,114,114 mins late,04:01,05:56,405,True,True,Sunday,Sep
+10 Sep 2017,1,MNP,MANANPUR,10 Sep 2017,04:07,06:07,120,120 mins late,04:09,06:20,410,True,True,Sunday,Sep
+10 Sep 2017,1,BSQP,BANSIPUR,10 Sep 2017,04:17,06:28,131,131 mins late,04:19,06:29,416,True,True,Sunday,Sep
+10 Sep 2017,1,KIUL,KIUL JN,10 Sep 2017,04:42,06:42,120,120 mins late,04:44,06:44,424,True,True,Sunday,Sep
+10 Sep 2017,1,LKR,LUCKEESARAI JN,10 Sep 2017,04:50,06:51,121,121 mins late,04:52,06:52,425,True,True,Sunday,Sep
+10 Sep 2017,1,MKB,MANKATHA,10 Sep 2017,04:58,07:01,123,123 mins late,05:00,07:03,431,True,True,Sunday,Sep
+10 Sep 2017,1,DMRX,DUMRI,10 Sep 2017,05:09,07:12,123,123 mins late,05:10,07:13,436,False,False,Sunday,Sep
+10 Sep 2017,1,BRYA,BARHIYA,10 Sep 2017,05:14,07:16,122,122 mins late,05:16,07:18,440,True,True,Sunday,Sep
+10 Sep 2017,1,RDUM,RAMPUR DUMRA,10 Sep 2017,05:22,07:24,122,122 mins late,05:24,07:25,446,True,True,Sunday,Sep
+10 Sep 2017,1,HTZ,HATHIDAH JN,10 Sep 2017,05:30,07:30,120,120 mins late,05:32,07:31,451,True,True,Sunday,Sep
+10 Sep 2017,1,ANAH,AUNTA HALT,10 Sep 2017,05:36,07:35,119,119 mins late,05:38,07:37,454,False,False,Sunday,Sep
+10 Sep 2017,1,MKA,MOKAMEH JN,10 Sep 2017,05:46,07:43,117,117 mins late,05:48,07:45,458,True,True,Sunday,Sep
+10 Sep 2017,1,MOR,MOR,10 Sep 2017,05:54,07:57,123,123 mins late,05:58,07:58,465,True,True,Sunday,Sep
+10 Sep 2017,1,KNHP,KANHAIPUR,10 Sep 2017,06:03,08:03,120,120 mins late,06:05,08:04,469,False,False,Sunday,Sep
+10 Sep 2017,1,MMKB,MEKRA MAMARKHABAD,10 Sep 2017,06:08,08:07,119,119 mins late,06:10,08:09,471,False,False,Sunday,Sep
+10 Sep 2017,1,PHK,PUNARAKH,10 Sep 2017,06:14,08:10,116,116 mins late,06:16,08:12,474,True,True,Sunday,Sep
+10 Sep 2017,1,BARH,BARH,10 Sep 2017,06:25,08:22,117,117 mins late,06:27,08:24,484,True,True,Sunday,Sep
+10 Sep 2017,1,ATL,ATHMAL GOLA,10 Sep 2017,06:35,08:32,117,117 mins late,06:37,08:33,493,True,True,Sunday,Sep
+10 Sep 2017,1,BKP,BAKHTIYARPUR JN,10 Sep 2017,06:49,08:44,115,115 mins late,06:54,08:46,502,True,True,Sunday,Sep
+10 Sep 2017,1,TKBG,TEKA BIGHA(H),10 Sep 2017,06:59,08:52,113,113 mins late,07:00,08:54,506,True,True,Sunday,Sep
+10 Sep 2017,1,KWO,KARAUTA,10 Sep 2017,07:08,09:05,117,117 mins late,07:10,09:07,511,True,True,Sunday,Sep
+10 Sep 2017,1,KOO,KHUSROPUR,10 Sep 2017,07:16,09:14,118,118 mins late,07:18,09:16,517,True,True,Sunday,Sep
+10 Sep 2017,1,FUT,FATUHA,10 Sep 2017,07:26,09:23,117,117 mins late,07:28,09:25,525,True,True,Sunday,Sep
+10 Sep 2017,1,BKG,BANKA GHAT,10 Sep 2017,07:35,09:34,119,119 mins late,07:37,09:36,531,True,True,Sunday,Sep
+10 Sep 2017,1,PNC,PATNA SAHEB,10 Sep 2017,07:42,09:42,120,120 mins late,07:44,09:44,537,True,True,Sunday,Sep
+10 Sep 2017,1,GZH,GULZARBAGH,10 Sep 2017,07:50,09:50,120,120 mins late,07:52,09:52,540,True,True,Sunday,Sep
+10 Sep 2017,1,RJPB,RAJENDRANAGAR T,10 Sep 2017,08:01,09:57,116,116 mins late,08:03,09:59,545,True,True,Sunday,Sep
+10 Sep 2017,1,PNBE,PATNA JN,10 Sep 2017,08:25,10:10,105,105 mins late,Destination,00:00,547,False,True,Sunday,Sep
+27 Sep 2017,0,KOAA,KOLKATA,27 Sep 2017,Source,00:00,0,0 mins late,19:50,19:50,0,False,False,Wednesday,Sep
+27 Sep 2017,0,NH,NAIHATI JN,27 Sep 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,False,False,Wednesday,Sep
+27 Sep 2017,0,BDC,BANDEL JN,27 Sep 2017,21:10,21:10,0,0 mins late,21:15,21:15,42,False,False,Wednesday,Sep
+27 Sep 2017,0,BWN,BARDDHAMAN,27 Sep 2017,22:17,22:17,0,0 mins late,22:22,22:22,109,False,False,Wednesday,Sep
+27 Sep 2017,0,DGR,DURGAPUR,27 Sep 2017,23:04,23:04,0,0 mins late,23:06,23:06,173,False,False,Wednesday,Sep
+27 Sep 2017,0,RNG,RANIGANJ,27 Sep 2017,23:25,23:25,0,0 mins late,23:27,23:27,198,False,False,Wednesday,Sep
+27 Sep 2017,0,ASN,ASANSOL JN,27 Sep 2017,23:47,23:47,0,0 mins late,23:52,23:52,216,False,False,Wednesday,Sep
+28 Sep 2017,1,CRJ,CHITTARANJAN,28 Sep 2017,00:16,00:16,0,0 mins late,00:17,00:17,241,False,False,Thursday,Sep
+28 Sep 2017,1,JMT,JAMTARA,28 Sep 2017,00:30,00:30,0,0 mins late,00:31,00:31,255,False,False,Thursday,Sep
+28 Sep 2017,1,MDP,MADHUPUR JN,28 Sep 2017,01:17,01:17,0,0 mins late,01:57,01:57,297,False,False,Thursday,Sep
+28 Sep 2017,1,JSME,JASIDIH JN,28 Sep 2017,02:23,02:23,0,0 mins late,02:28,02:28,326,False,False,Thursday,Sep
+28 Sep 2017,1,STL,SIMULTALA,28 Sep 2017,02:48,02:48,0,0 mins late,02:50,02:50,351,False,False,Thursday,Sep
+28 Sep 2017,1,JAJ,JHAJHA,28 Sep 2017,03:20,03:20,0,0 mins late,03:25,03:25,370,False,False,Thursday,Sep
+28 Sep 2017,1,GHR,GIDHAUR,28 Sep 2017,03:35,03:35,0,0 mins late,03:37,03:37,382,False,False,Thursday,Sep
+28 Sep 2017,1,JMU,JAMUI,28 Sep 2017,03:49,03:49,0,0 mins late,03:51,03:51,396,False,False,Thursday,Sep
+28 Sep 2017,1,BFM,BHALUI,28 Sep 2017,04:00,04:00,0,0 mins late,04:01,04:01,405,False,False,Thursday,Sep
+28 Sep 2017,1,MNP,MANANPUR,28 Sep 2017,04:07,04:07,0,0 mins late,04:09,04:09,410,False,False,Thursday,Sep
+28 Sep 2017,1,BSQP,BANSIPUR,28 Sep 2017,04:17,04:17,0,0 mins late,04:19,04:19,416,False,False,Thursday,Sep
+28 Sep 2017,1,KIUL,KIUL JN,28 Sep 2017,04:42,04:42,0,0 mins late,04:44,04:44,424,False,False,Thursday,Sep
+28 Sep 2017,1,LKR,LUCKEESARAI JN,28 Sep 2017,04:50,04:50,0,0 mins late,04:52,04:52,425,False,False,Thursday,Sep
+28 Sep 2017,1,MKB,MANKATHA,28 Sep 2017,04:58,04:58,0,0 mins late,05:00,05:00,431,False,False,Thursday,Sep
+28 Sep 2017,1,DMRX,DUMRI,28 Sep 2017,05:09,05:09,0,0 mins late,05:10,05:10,436,False,False,Thursday,Sep
+28 Sep 2017,1,BRYA,BARHIYA,28 Sep 2017,05:14,05:14,0,0 mins late,05:16,05:16,440,False,False,Thursday,Sep
+28 Sep 2017,1,RDUM,RAMPUR DUMRA,28 Sep 2017,05:22,05:22,0,0 mins late,05:24,05:24,446,False,False,Thursday,Sep
+28 Sep 2017,1,HTZ,HATHIDAH JN,28 Sep 2017,05:30,05:30,0,0 mins late,05:32,05:32,451,False,False,Thursday,Sep
+28 Sep 2017,1,ANAH,AUNTA HALT,28 Sep 2017,05:36,05:36,0,0 mins late,05:38,05:38,454,False,False,Thursday,Sep
+28 Sep 2017,1,MKA,MOKAMEH JN,28 Sep 2017,05:46,05:46,0,0 mins late,05:48,05:48,458,False,False,Thursday,Sep
+28 Sep 2017,1,MOR,MOR,28 Sep 2017,05:54,05:54,0,0 mins late,05:58,05:58,465,False,False,Thursday,Sep
+28 Sep 2017,1,KNHP,KANHAIPUR,28 Sep 2017,06:03,06:03,0,0 mins late,06:05,06:05,469,False,False,Thursday,Sep
+28 Sep 2017,1,MMKB,MEKRA MAMARKHABAD,28 Sep 2017,06:08,06:08,0,0 mins late,06:10,06:10,471,False,False,Thursday,Sep
+28 Sep 2017,1,PHK,PUNARAKH,28 Sep 2017,06:14,06:14,0,0 mins late,06:16,06:16,474,False,False,Thursday,Sep
+28 Sep 2017,1,BARH,BARH,28 Sep 2017,06:25,06:25,0,0 mins late,06:27,06:27,484,False,False,Thursday,Sep
+28 Sep 2017,1,ATL,ATHMAL GOLA,28 Sep 2017,06:35,06:35,0,0 mins late,06:37,06:37,493,False,False,Thursday,Sep
+28 Sep 2017,1,BKP,BAKHTIYARPUR JN,28 Sep 2017,06:49,06:49,0,0 mins late,06:54,06:54,502,False,False,Thursday,Sep
+28 Sep 2017,1,TKBG,TEKA BIGHA(H),28 Sep 2017,06:59,06:59,0,0 mins late,07:00,07:00,506,False,False,Thursday,Sep
+28 Sep 2017,1,KWO,KARAUTA,28 Sep 2017,07:08,07:08,0,0 mins late,07:10,07:10,511,False,False,Thursday,Sep
+28 Sep 2017,1,KOO,KHUSROPUR,28 Sep 2017,07:16,07:16,0,0 mins late,07:18,07:18,517,False,False,Thursday,Sep
+28 Sep 2017,1,FUT,FATUHA,28 Sep 2017,07:26,07:26,0,0 mins late,07:28,07:28,525,False,False,Thursday,Sep
+28 Sep 2017,1,BKG,BANKA GHAT,28 Sep 2017,07:35,07:35,0,0 mins late,07:37,07:37,531,False,False,Thursday,Sep
+28 Sep 2017,1,PNC,PATNA SAHEB,28 Sep 2017,07:42,07:42,0,0 mins late,07:44,07:44,537,False,False,Thursday,Sep
+28 Sep 2017,1,GZH,GULZARBAGH,28 Sep 2017,07:50,07:50,0,0 mins late,07:52,07:52,540,False,False,Thursday,Sep
+28 Sep 2017,1,RJPB,RAJENDRANAGAR T,28 Sep 2017,08:01,08:01,0,0 mins late,08:03,08:03,545,False,False,Thursday,Sep
+28 Sep 2017,1,PNBE,PATNA JN,28 Sep 2017,08:25,08:25,0,0 mins late,Destination,00:00,547,False,False,Thursday,Sep
+28 Sep 2017,0,KOAA,KOLKATA,28 Sep 2017,Source,00:00,0,0 mins late,19:50,19:50,0,False,False,Thursday,Sep
+28 Sep 2017,0,NH,NAIHATI JN,28 Sep 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,False,False,Thursday,Sep
+28 Sep 2017,0,BDC,BANDEL JN,28 Sep 2017,21:10,21:10,0,0 mins late,21:15,21:15,42,False,False,Thursday,Sep
+28 Sep 2017,0,BWN,BARDDHAMAN,28 Sep 2017,22:17,22:17,0,0 mins late,22:22,22:22,109,False,False,Thursday,Sep
+28 Sep 2017,0,DGR,DURGAPUR,28 Sep 2017,23:04,23:04,0,0 mins late,23:06,23:06,173,False,False,Thursday,Sep
+28 Sep 2017,0,RNG,RANIGANJ,28 Sep 2017,23:25,23:25,0,0 mins late,23:27,23:27,198,False,False,Thursday,Sep
+28 Sep 2017,0,ASN,ASANSOL JN,28 Sep 2017,23:47,23:47,0,0 mins late,23:52,23:52,216,False,False,Thursday,Sep
+29 Sep 2017,1,CRJ,CHITTARANJAN,29 Sep 2017,00:16,00:16,0,0 mins late,00:17,00:17,241,False,False,Friday,Sep
+29 Sep 2017,1,JMT,JAMTARA,29 Sep 2017,00:30,00:30,0,0 mins late,00:31,00:31,255,False,False,Friday,Sep
+29 Sep 2017,1,MDP,MADHUPUR JN,29 Sep 2017,01:17,01:17,0,0 mins late,01:57,01:57,297,False,False,Friday,Sep
+29 Sep 2017,1,JSME,JASIDIH JN,29 Sep 2017,02:23,02:23,0,0 mins late,02:28,02:28,326,False,False,Friday,Sep
+29 Sep 2017,1,STL,SIMULTALA,29 Sep 2017,02:48,02:48,0,0 mins late,02:50,02:50,351,False,False,Friday,Sep
+29 Sep 2017,1,JAJ,JHAJHA,29 Sep 2017,03:20,03:20,0,0 mins late,03:25,03:25,370,False,False,Friday,Sep
+29 Sep 2017,1,GHR,GIDHAUR,29 Sep 2017,03:35,03:35,0,0 mins late,03:37,03:37,382,False,False,Friday,Sep
+29 Sep 2017,1,JMU,JAMUI,29 Sep 2017,03:49,03:49,0,0 mins late,03:51,03:51,396,False,False,Friday,Sep
+29 Sep 2017,1,BFM,BHALUI,29 Sep 2017,04:00,04:00,0,0 mins late,04:01,04:01,405,False,False,Friday,Sep
+29 Sep 2017,1,MNP,MANANPUR,29 Sep 2017,04:07,04:07,0,0 mins late,04:09,04:09,410,False,False,Friday,Sep
+29 Sep 2017,1,BSQP,BANSIPUR,29 Sep 2017,04:17,04:17,0,0 mins late,04:19,04:19,416,False,False,Friday,Sep
+29 Sep 2017,1,KIUL,KIUL JN,29 Sep 2017,04:42,04:42,0,0 mins late,04:44,04:44,424,False,False,Friday,Sep
+29 Sep 2017,1,LKR,LUCKEESARAI JN,29 Sep 2017,04:50,04:50,0,0 mins late,04:52,04:52,425,False,False,Friday,Sep
+29 Sep 2017,1,MKB,MANKATHA,29 Sep 2017,04:58,04:58,0,0 mins late,05:00,05:00,431,False,False,Friday,Sep
+29 Sep 2017,1,DMRX,DUMRI,29 Sep 2017,05:09,05:09,0,0 mins late,05:10,05:10,436,False,False,Friday,Sep
+29 Sep 2017,1,BRYA,BARHIYA,29 Sep 2017,05:14,05:14,0,0 mins late,05:16,05:16,440,False,False,Friday,Sep
+29 Sep 2017,1,RDUM,RAMPUR DUMRA,29 Sep 2017,05:22,05:22,0,0 mins late,05:24,05:24,446,False,False,Friday,Sep
+29 Sep 2017,1,HTZ,HATHIDAH JN,29 Sep 2017,05:30,05:30,0,0 mins late,05:32,05:32,451,False,False,Friday,Sep
+29 Sep 2017,1,ANAH,AUNTA HALT,29 Sep 2017,05:36,05:36,0,0 mins late,05:38,05:38,454,False,False,Friday,Sep
+29 Sep 2017,1,MKA,MOKAMEH JN,29 Sep 2017,05:46,05:46,0,0 mins late,05:48,05:48,458,False,False,Friday,Sep
+29 Sep 2017,1,MOR,MOR,29 Sep 2017,05:54,05:54,0,0 mins late,05:58,05:58,465,False,False,Friday,Sep
+29 Sep 2017,1,KNHP,KANHAIPUR,29 Sep 2017,06:03,06:03,0,0 mins late,06:05,06:05,469,False,False,Friday,Sep
+29 Sep 2017,1,MMKB,MEKRA MAMARKHABAD,29 Sep 2017,06:08,06:08,0,0 mins late,06:10,06:10,471,False,False,Friday,Sep
+29 Sep 2017,1,PHK,PUNARAKH,29 Sep 2017,06:14,06:14,0,0 mins late,06:16,06:16,474,False,False,Friday,Sep
+29 Sep 2017,1,BARH,BARH,29 Sep 2017,06:25,06:25,0,0 mins late,06:27,06:27,484,False,False,Friday,Sep
+29 Sep 2017,1,ATL,ATHMAL GOLA,29 Sep 2017,06:35,06:35,0,0 mins late,06:37,06:37,493,False,False,Friday,Sep
+29 Sep 2017,1,BKP,BAKHTIYARPUR JN,29 Sep 2017,06:49,06:49,0,0 mins late,06:54,06:54,502,False,False,Friday,Sep
+29 Sep 2017,1,TKBG,TEKA BIGHA(H),29 Sep 2017,06:59,06:59,0,0 mins late,07:00,07:00,506,False,False,Friday,Sep
+29 Sep 2017,1,KWO,KARAUTA,29 Sep 2017,07:08,07:08,0,0 mins late,07:10,07:10,511,False,False,Friday,Sep
+29 Sep 2017,1,KOO,KHUSROPUR,29 Sep 2017,07:16,07:16,0,0 mins late,07:18,07:18,517,False,False,Friday,Sep
+29 Sep 2017,1,FUT,FATUHA,29 Sep 2017,07:26,07:26,0,0 mins late,07:28,07:28,525,False,False,Friday,Sep
+29 Sep 2017,1,BKG,BANKA GHAT,29 Sep 2017,07:35,07:35,0,0 mins late,07:37,07:37,531,False,False,Friday,Sep
+29 Sep 2017,1,PNC,PATNA SAHEB,29 Sep 2017,07:42,07:42,0,0 mins late,07:44,07:44,537,False,False,Friday,Sep
+29 Sep 2017,1,GZH,GULZARBAGH,29 Sep 2017,07:50,07:50,0,0 mins late,07:52,07:52,540,False,False,Friday,Sep
+29 Sep 2017,1,RJPB,RAJENDRANAGAR T,29 Sep 2017,08:01,08:01,0,0 mins late,08:03,08:03,545,False,False,Friday,Sep
+29 Sep 2017,1,PNBE,PATNA JN,29 Sep 2017,08:25,08:25,0,0 mins late,Destination,00:00,547,False,False,Friday,Sep
+8 Oct 2017,0,KOAA,KOLKATA,8 Oct 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Sunday,Oct
+8 Oct 2017,0,NH,NAIHATI JN,8 Oct 2017,20:43,20:42,-1,-1 mins late,20:45,20:45,33,True,True,Sunday,Oct
+8 Oct 2017,0,BDC,BANDEL JN,8 Oct 2017,21:10,21:10,0,0 mins late,21:15,21:15,42,True,True,Sunday,Oct
+8 Oct 2017,0,BWN,BARDDHAMAN,8 Oct 2017,22:17,22:17,0,0 mins late,22:22,22:22,109,False,False,Sunday,Oct
+8 Oct 2017,0,DGR,DURGAPUR,8 Oct 2017,23:04,23:17,13,13 mins late,23:06,23:19,173,True,True,Sunday,Oct
+8 Oct 2017,0,RNG,RANIGANJ,8 Oct 2017,23:25,23:39,14,14 mins late,23:27,23:42,198,True,True,Sunday,Oct
+9 Oct 2017,1,ASN,ASANSOL JN,8 Oct 2017,23:47,00:02,15,15 mins late,23:52,00:09,216,True,True,Monday,Oct
+9 Oct 2017,1,CRJ,CHITTARANJAN,9 Oct 2017,00:16,00:39,23,23 mins late,00:17,00:40,241,True,True,Monday,Oct
+9 Oct 2017,1,JMT,JAMTARA,9 Oct 2017,00:30,00:52,22,22 mins late,00:31,00:53,255,True,True,Monday,Oct
+9 Oct 2017,1,MDP,MADHUPUR JN,9 Oct 2017,01:17,01:22,5,5 mins late,01:57,02:06,297,True,True,Monday,Oct
+9 Oct 2017,1,JSME,JASIDIH JN,9 Oct 2017,02:23,02:30,7,7 mins late,02:28,02:32,326,True,True,Monday,Oct
+9 Oct 2017,1,STL,SIMULTALA,9 Oct 2017,02:48,02:52,4,4 mins late,02:50,02:54,351,False,False,Monday,Oct
+9 Oct 2017,1,JAJ,JHAJHA,9 Oct 2017,03:20,03:25,5,5 mins late,03:25,03:30,370,True,True,Monday,Oct
+9 Oct 2017,1,GHR,GIDHAUR,9 Oct 2017,03:35,03:42,7,7 mins late,03:37,03:44,382,True,True,Monday,Oct
+9 Oct 2017,1,JMU,JAMUI,9 Oct 2017,03:49,03:56,7,7 mins late,03:51,03:58,396,True,True,Monday,Oct
+9 Oct 2017,1,BFM,BHALUI,9 Oct 2017,04:00,04:06,6,6 mins late,04:01,04:07,405,True,True,Monday,Oct
+9 Oct 2017,1,MNP,MANANPUR,9 Oct 2017,04:07,04:15,8,8 mins late,04:09,04:17,410,True,True,Monday,Oct
+9 Oct 2017,1,BSQP,BANSIPUR,9 Oct 2017,04:17,04:24,7,7 mins late,04:19,04:26,416,True,True,Monday,Oct
+9 Oct 2017,1,KIUL,KIUL JN,9 Oct 2017,04:42,04:35,-7,-7 mins late,04:44,04:44,424,True,True,Monday,Oct
+9 Oct 2017,1,LKR,LUCKEESARAI JN,9 Oct 2017,04:50,04:50,0,0 mins late,04:52,04:52,425,True,True,Monday,Oct
+9 Oct 2017,1,MKB,MANKATHA,9 Oct 2017,04:58,04:57,-1,-1 mins late,05:00,05:00,431,True,True,Monday,Oct
+9 Oct 2017,1,DMRX,DUMRI,9 Oct 2017,05:09,05:09,0,0 mins late,05:10,05:10,436,False,False,Monday,Oct
+9 Oct 2017,1,BRYA,BARHIYA,9 Oct 2017,05:14,05:13,-1,-1 mins late,05:16,05:16,440,True,True,Monday,Oct
+9 Oct 2017,1,RDUM,RAMPUR DUMRA,9 Oct 2017,05:22,05:22,0,0 mins late,05:24,05:24,446,True,True,Monday,Oct
+9 Oct 2017,1,HTZ,HATHIDAH JN,9 Oct 2017,05:30,05:31,1,1 mins late,05:32,05:33,451,True,True,Monday,Oct
+9 Oct 2017,1,ANAH,AUNTA HALT,9 Oct 2017,05:36,05:37,1,1 mins late,05:38,05:39,454,False,False,Monday,Oct
+9 Oct 2017,1,MKA,MOKAMEH JN,9 Oct 2017,05:46,05:45,-1,-1 mins late,05:48,05:48,458,True,True,Monday,Oct
+9 Oct 2017,1,MOR,MOR,9 Oct 2017,05:54,05:54,0,0 mins late,05:58,05:58,465,False,False,Monday,Oct
+9 Oct 2017,1,KNHP,KANHAIPUR,9 Oct 2017,06:03,06:03,0,0 mins late,06:05,06:05,469,False,False,Monday,Oct
+9 Oct 2017,1,MMKB,MEKRA MAMARKHABAD,9 Oct 2017,06:08,06:08,0,0 mins late,06:10,06:10,471,False,False,Monday,Oct
+9 Oct 2017,1,PHK,PUNARAKH,9 Oct 2017,06:14,06:16,2,2 mins late,06:16,06:18,474,True,True,Monday,Oct
+9 Oct 2017,1,BARH,BARH,9 Oct 2017,06:25,06:27,2,2 mins late,06:27,06:29,484,True,True,Monday,Oct
+9 Oct 2017,1,ATL,ATHMAL GOLA,9 Oct 2017,06:35,06:37,2,2 mins late,06:37,06:39,493,True,True,Monday,Oct
+9 Oct 2017,1,BKP,BAKHTIYARPUR JN,9 Oct 2017,06:49,06:49,0,0 mins late,06:54,06:54,502,True,True,Monday,Oct
+9 Oct 2017,1,TKBG,TEKA BIGHA(H),9 Oct 2017,06:59,07:00,1,1 mins late,07:00,07:01,506,True,True,Monday,Oct
+9 Oct 2017,1,KWO,KARAUTA,9 Oct 2017,07:08,07:08,0,0 mins late,07:10,07:10,511,True,True,Monday,Oct
+9 Oct 2017,1,KOO,KHUSROPUR,9 Oct 2017,07:16,07:18,2,2 mins late,07:18,07:20,517,True,True,Monday,Oct
+9 Oct 2017,1,FUT,FATUHA,9 Oct 2017,07:26,07:28,2,2 mins late,07:28,07:30,525,True,True,Monday,Oct
+9 Oct 2017,1,BKG,BANKA GHAT,9 Oct 2017,07:35,07:37,2,2 mins late,07:37,07:39,531,True,True,Monday,Oct
+9 Oct 2017,1,PNC,PATNA SAHEB,9 Oct 2017,07:42,07:45,3,3 mins late,07:44,07:47,537,True,True,Monday,Oct
+9 Oct 2017,1,GZH,GULZARBAGH,9 Oct 2017,07:50,07:53,3,3 mins late,07:52,07:55,540,True,True,Monday,Oct
+9 Oct 2017,1,RJPB,RAJENDRANAGAR T,9 Oct 2017,08:01,08:02,1,1 mins late,08:03,08:04,545,True,True,Monday,Oct
+9 Oct 2017,1,PNBE,PATNA JN,9 Oct 2017,08:25,08:25,0,0 mins late,Destination,00:00,547,False,True,Monday,Oct
+15 Oct 2017,0,KOAA,KOLKATA,15 Oct 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Sunday,Oct
+15 Oct 2017,0,NH,NAIHATI JN,15 Oct 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Sunday,Oct
+15 Oct 2017,0,BDC,BANDEL JN,15 Oct 2017,21:10,21:22,12,12 mins late,21:15,21:26,42,True,True,Sunday,Oct
+15 Oct 2017,0,BWN,BARDDHAMAN,15 Oct 2017,22:17,22:22,5,5 mins late,22:22,22:23,109,True,True,Sunday,Oct
+15 Oct 2017,0,DGR,DURGAPUR,15 Oct 2017,23:04,23:22,18,18 mins late,23:06,23:24,173,True,True,Sunday,Oct
+15 Oct 2017,0,RNG,RANIGANJ,15 Oct 2017,23:25,23:52,27,27 mins late,23:27,23:54,198,True,True,Sunday,Oct
+16 Oct 2017,1,ASN,ASANSOL JN,15 Oct 2017,23:47,00:16,29,29 mins late,23:52,00:26,216,True,True,Monday,Oct
+16 Oct 2017,1,CRJ,CHITTARANJAN,16 Oct 2017,00:16,00:55,39,39 mins late,00:17,00:57,241,True,True,Monday,Oct
+16 Oct 2017,1,JMT,JAMTARA,16 Oct 2017,00:30,01:11,41,41 mins late,00:31,01:12,255,True,True,Monday,Oct
+16 Oct 2017,1,MDP,MADHUPUR JN,16 Oct 2017,01:17,01:51,34,34 mins late,01:57,02:11,297,True,True,Monday,Oct
+16 Oct 2017,1,JSME,JASIDIH JN,16 Oct 2017,02:23,02:35,12,12 mins late,02:28,02:40,326,False,False,Monday,Oct
+16 Oct 2017,1,STL,SIMULTALA,16 Oct 2017,02:48,03:00,12,12 mins late,02:50,03:02,351,False,False,Monday,Oct
+16 Oct 2017,1,JAJ,JHAJHA,16 Oct 2017,03:20,04:05,45,45 mins late,03:25,04:10,370,True,True,Monday,Oct
+16 Oct 2017,1,GHR,GIDHAUR,16 Oct 2017,03:35,04:25,50,50 mins late,03:37,04:27,382,True,True,Monday,Oct
+16 Oct 2017,1,JMU,JAMUI,16 Oct 2017,03:49,04:53,64,64 mins late,03:51,05:20,396,True,True,Monday,Oct
+16 Oct 2017,1,BFM,BHALUI,16 Oct 2017,04:00,05:30,90,90 mins late,04:01,05:31,405,True,True,Monday,Oct
+16 Oct 2017,1,MNP,MANANPUR,16 Oct 2017,04:07,05:38,91,91 mins late,04:09,05:40,410,True,True,Monday,Oct
+16 Oct 2017,1,BSQP,BANSIPUR,16 Oct 2017,04:17,05:50,93,93 mins late,04:19,06:07,416,True,True,Monday,Oct
+16 Oct 2017,1,KIUL,KIUL JN,16 Oct 2017,04:42,06:20,98,98 mins late,04:44,06:32,424,True,True,Monday,Oct
+16 Oct 2017,1,LKR,LUCKEESARAI JN,16 Oct 2017,04:50,06:40,110,110 mins late,04:52,06:42,425,True,True,Monday,Oct
+16 Oct 2017,1,MKB,MANKATHA,16 Oct 2017,04:58,06:47,109,109 mins late,05:00,06:48,431,True,True,Monday,Oct
+16 Oct 2017,1,DMRX,DUMRI,16 Oct 2017,05:09,06:57,108,108 mins late,05:10,06:58,436,False,False,Monday,Oct
+16 Oct 2017,1,BRYA,BARHIYA,16 Oct 2017,05:14,07:00,106,106 mins late,05:16,07:02,440,True,True,Monday,Oct
+16 Oct 2017,1,RDUM,RAMPUR DUMRA,16 Oct 2017,05:22,07:08,106,106 mins late,05:24,07:10,446,True,True,Monday,Oct
+16 Oct 2017,1,HTZ,HATHIDAH JN,16 Oct 2017,05:30,07:15,105,105 mins late,05:32,07:17,451,True,True,Monday,Oct
+16 Oct 2017,1,ANAH,AUNTA HALT,16 Oct 2017,05:36,07:21,105,105 mins late,05:38,07:23,454,False,False,Monday,Oct
+16 Oct 2017,1,MKA,MOKAMEH JN,16 Oct 2017,05:46,07:30,104,104 mins late,05:48,07:32,458,True,True,Monday,Oct
+16 Oct 2017,1,MOR,MOR,16 Oct 2017,05:54,07:43,109,109 mins late,05:58,07:45,465,True,True,Monday,Oct
+16 Oct 2017,1,KNHP,KANHAIPUR,16 Oct 2017,06:03,07:50,107,107 mins late,06:05,07:51,469,False,False,Monday,Oct
+16 Oct 2017,1,MMKB,MEKRA MAMARKHABAD,16 Oct 2017,06:08,07:54,106,106 mins late,06:10,07:56,471,False,False,Monday,Oct
+16 Oct 2017,1,PHK,PUNARAKH,16 Oct 2017,06:14,07:57,103,103 mins late,06:16,08:00,474,True,True,Monday,Oct
+16 Oct 2017,1,BARH,BARH,16 Oct 2017,06:25,08:19,114,114 mins late,06:27,08:23,484,True,True,Monday,Oct
+16 Oct 2017,1,ATL,ATHMAL GOLA,16 Oct 2017,06:35,08:33,118,118 mins late,06:37,08:35,493,True,True,Monday,Oct
+16 Oct 2017,1,BKP,BAKHTIYARPUR JN,16 Oct 2017,06:49,08:46,117,117 mins late,06:54,08:48,502,True,True,Monday,Oct
+16 Oct 2017,1,TKBG,TEKA BIGHA(H),16 Oct 2017,06:59,08:53,114,114 mins late,07:00,08:54,506,True,True,Monday,Oct
+16 Oct 2017,1,KWO,KARAUTA,16 Oct 2017,07:08,09:04,116,116 mins late,07:10,09:25,511,True,True,Monday,Oct
+16 Oct 2017,1,KOO,KHUSROPUR,16 Oct 2017,07:16,09:37,141,141 mins late,07:18,09:39,517,True,True,Monday,Oct
+16 Oct 2017,1,FUT,FATUHA,16 Oct 2017,07:26,09:52,146,146 mins late,07:28,09:54,525,True,True,Monday,Oct
+16 Oct 2017,1,BKG,BANKA GHAT,16 Oct 2017,07:35,10:05,150,150 mins late,07:37,10:06,531,True,True,Monday,Oct
+16 Oct 2017,1,PNC,PATNA SAHEB,16 Oct 2017,07:42,10:14,152,152 mins late,07:44,10:33,537,True,True,Monday,Oct
+16 Oct 2017,1,GZH,GULZARBAGH,16 Oct 2017,07:50,10:41,171,171 mins late,07:52,10:42,540,True,True,Monday,Oct
+16 Oct 2017,1,RJPB,RAJENDRANAGAR T,16 Oct 2017,08:01,10:49,168,168 mins late,08:03,10:51,545,True,True,Monday,Oct
+16 Oct 2017,1,PNBE,PATNA JN,16 Oct 2017,08:25,11:00,155,155 mins late,Destination,00:00,547,False,True,Monday,Oct
+8 Dec 2017,0,KOAA,KOLKATA,8 Dec 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Friday,Dec
+8 Dec 2017,0,NH,NAIHATI JN,8 Dec 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Friday,Dec
+8 Dec 2017,0,BDC,BANDEL JN,8 Dec 2017,21:06,21:13,7,7 mins late,21:11,21:16,42,True,True,Friday,Dec
+8 Dec 2017,0,BWN,BARDDHAMAN,8 Dec 2017,22:06,22:09,3,3 mins late,22:11,22:16,109,True,True,Friday,Dec
+8 Dec 2017,0,DGR,DURGAPUR,8 Dec 2017,23:01,23:27,26,26 mins late,23:03,23:29,173,True,True,Friday,Dec
+9 Dec 2017,1,RNG,RANIGANJ,8 Dec 2017,23:22,00:02,40,40 mins late,23:24,00:06,198,True,True,Saturday,Dec
+9 Dec 2017,1,ASN,ASANSOL JN,8 Dec 2017,23:43,00:23,40,40 mins late,23:48,00:30,216,True,True,Saturday,Dec
+9 Dec 2017,1,CRJ,CHITTARANJAN,9 Dec 2017,00:12,01:00,48,48 mins late,00:13,01:02,241,True,True,Saturday,Dec
+9 Dec 2017,1,JMT,JAMTARA,9 Dec 2017,00:26,01:14,48,48 mins late,00:27,01:15,255,True,True,Saturday,Dec
+9 Dec 2017,1,MDP,MADHUPUR JN,9 Dec 2017,01:17,01:50,33,33 mins late,01:57,02:20,297,True,True,Saturday,Dec
+9 Dec 2017,1,JSME,JASIDIH JN,9 Dec 2017,02:23,02:41,18,18 mins late,02:28,02:42,326,False,False,Saturday,Dec
+9 Dec 2017,1,STL,SIMULTALA,9 Dec 2017,02:48,03:02,14,14 mins late,02:50,03:04,351,False,False,Saturday,Dec
+9 Dec 2017,1,JAJ,JHAJHA,9 Dec 2017,03:20,03:40,20,20 mins late,03:25,03:55,370,True,True,Saturday,Dec
+9 Dec 2017,1,GHR,GIDHAUR,9 Dec 2017,03:33,04:10,37,37 mins late,03:35,04:12,382,True,True,Saturday,Dec
+9 Dec 2017,1,JMU,JAMUI,9 Dec 2017,03:47,04:26,39,39 mins late,03:49,04:28,396,True,True,Saturday,Dec
+9 Dec 2017,1,BFM,BHALUI,9 Dec 2017,03:58,04:37,39,39 mins late,03:59,04:38,405,False,False,Saturday,Dec
+9 Dec 2017,1,MNP,MANANPUR,9 Dec 2017,04:04,04:46,42,42 mins late,04:06,04:48,410,True,True,Saturday,Dec
+9 Dec 2017,1,BSQP,BANSIPUR,9 Dec 2017,04:12,04:54,42,42 mins late,04:14,04:55,416,False,False,Saturday,Dec
+9 Dec 2017,1,KIUL,KIUL JN,9 Dec 2017,04:42,05:08,26,26 mins late,04:44,05:10,424,True,True,Saturday,Dec
+9 Dec 2017,1,LKR,LUCKEESARAI JN,9 Dec 2017,04:50,05:16,26,26 mins late,04:52,05:18,425,True,True,Saturday,Dec
+9 Dec 2017,1,MKB,MANKATHA,9 Dec 2017,05:04,05:24,20,20 mins late,05:06,05:25,431,True,True,Saturday,Dec
+9 Dec 2017,1,DMRX,DUMRI,9 Dec 2017,05:14,05:33,19,19 mins late,05:15,05:34,436,False,False,Saturday,Dec
+9 Dec 2017,1,BRYA,BARHIYA,9 Dec 2017,05:23,05:39,16,16 mins late,05:25,05:41,440,True,True,Saturday,Dec
+9 Dec 2017,1,RDUM,RAMPUR DUMRA,9 Dec 2017,05:53,05:49,-4,-4 mins late,05:54,05:55,446,True,True,Saturday,Dec
+9 Dec 2017,1,HTZ,HATHIDAH JN,9 Dec 2017,05:59,06:01,2,2 mins late,06:01,06:03,451,True,True,Saturday,Dec
+9 Dec 2017,1,TALL,TALL JN.,9 Dec 2017,06:07,06:07,0,0 mins late,06:08,06:08,453,True,True,Saturday,Dec
+9 Dec 2017,1,MKA,MOKAMEH JN,9 Dec 2017,06:21,06:20,-1,-1 mins late,06:23,06:35,458,True,True,Saturday,Dec
+9 Dec 2017,1,MOR,MOR,9 Dec 2017,06:31,06:44,13,13 mins late,06:33,06:45,465,True,True,Saturday,Dec
+9 Dec 2017,1,KNHP,KANHAIPUR,9 Dec 2017,06:39,06:51,12,12 mins late,06:40,06:52,469,False,False,Saturday,Dec
+9 Dec 2017,1,MMKB,MEKRA MAMARKHABAD,9 Dec 2017,06:44,06:56,12,12 mins late,06:45,06:57,471,False,False,Saturday,Dec
+9 Dec 2017,1,PHK,PUNARAKH,9 Dec 2017,06:50,07:04,14,14 mins late,06:52,07:06,474,True,True,Saturday,Dec
+9 Dec 2017,1,BARH,BARH,9 Dec 2017,07:04,07:18,14,14 mins late,07:06,07:20,484,True,True,Saturday,Dec
+9 Dec 2017,1,ATL,ATHMAL GOLA,9 Dec 2017,07:15,07:32,17,17 mins late,07:17,07:34,493,True,True,Saturday,Dec
+9 Dec 2017,1,BKP,BAKHTIYARPUR JN,9 Dec 2017,07:35,07:41,6,6 mins late,07:40,07:43,502,True,True,Saturday,Dec
+9 Dec 2017,1,TKBG,TEKA BIGHA(H),9 Dec 2017,07:49,07:56,7,7 mins late,07:50,07:58,506,True,True,Saturday,Dec
+9 Dec 2017,1,SMBH,SALIM PUR BIHAR(H),9 Dec 2017,07:54,08:02,8,8 mins late,07:55,08:03,508,False,False,Saturday,Dec
+9 Dec 2017,1,KWO,KARAUTA,9 Dec 2017,07:59,08:07,8,8 mins late,08:00,08:08,511,False,False,Saturday,Dec
+9 Dec 2017,1,KOO,KHUSROPUR,9 Dec 2017,08:12,08:25,13,13 mins late,08:14,08:32,517,True,True,Saturday,Dec
+9 Dec 2017,1,FUT,FATUHA,9 Dec 2017,08:34,08:52,18,18 mins late,08:36,08:54,525,True,True,Saturday,Dec
+9 Dec 2017,1,BKG,BANKA GHAT,9 Dec 2017,08:48,09:03,15,15 mins late,08:49,09:05,531,True,True,Saturday,Dec
+9 Dec 2017,1,PNC,PATNA SAHEB,9 Dec 2017,08:55,09:11,16,16 mins late,08:57,09:14,537,True,True,Saturday,Dec
+9 Dec 2017,1,GZH,GULZARBAGH,9 Dec 2017,09:05,09:20,15,15 mins late,09:07,09:22,540,True,True,Saturday,Dec
+9 Dec 2017,1,RJPB,RAJENDRANAGAR T,9 Dec 2017,09:20,09:20,0,0 mins late,09:22,09:22,545,False,False,Saturday,Dec
+9 Dec 2017,1,PNBE,PATNA JN,9 Dec 2017,09:45,10:00,15,15 mins late,Destination,00:00,547,False,True,Saturday,Dec
+10 Dec 2017,0,KOAA,KOLKATA,10 Dec 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Sunday,Dec
+10 Dec 2017,0,NH,NAIHATI JN,10 Dec 2017,20:43,20:42,-1,-1 mins late,20:45,20:45,33,True,True,Sunday,Dec
+10 Dec 2017,0,BDC,BANDEL JN,10 Dec 2017,21:06,21:11,5,5 mins late,21:11,21:15,42,True,True,Sunday,Dec
+10 Dec 2017,0,BWN,BARDDHAMAN,10 Dec 2017,22:06,22:07,1,1 mins late,22:11,22:11,109,False,True,Sunday,Dec
+10 Dec 2017,0,DGR,DURGAPUR,10 Dec 2017,23:01,23:08,7,7 mins late,23:03,23:10,173,True,True,Sunday,Dec
+10 Dec 2017,0,RNG,RANIGANJ,10 Dec 2017,23:22,23:34,12,12 mins late,23:24,23:36,198,True,True,Sunday,Dec
+10 Dec 2017,1,ASN,ASANSOL JN,10 Dec 2017,23:43,23:53,10,10 mins late,23:48,00:03,216,True,True,Sunday,Dec
+11 Dec 2017,1,CRJ,CHITTARANJAN,11 Dec 2017,00:12,00:28,16,16 mins late,00:13,00:30,241,True,True,Monday,Dec
+11 Dec 2017,1,JMT,JAMTARA,11 Dec 2017,00:26,00:46,20,20 mins late,00:27,00:55,255,True,True,Monday,Dec
+11 Dec 2017,1,MDP,MADHUPUR JN,11 Dec 2017,01:17,01:35,18,18 mins late,01:57,02:21,297,True,True,Monday,Dec
+11 Dec 2017,1,JSME,JASIDIH JN,11 Dec 2017,02:23,02:45,22,22 mins late,02:28,02:50,326,False,False,Monday,Dec
+11 Dec 2017,1,STL,SIMULTALA,11 Dec 2017,02:48,03:10,22,22 mins late,02:50,03:12,351,False,False,Monday,Dec
+11 Dec 2017,1,JAJ,JHAJHA,11 Dec 2017,03:20,03:42,22,22 mins late,03:25,03:47,370,True,True,Monday,Dec
+11 Dec 2017,1,GHR,GIDHAUR,11 Dec 2017,03:33,04:03,30,30 mins late,03:35,04:05,382,True,True,Monday,Dec
+11 Dec 2017,1,JMU,JAMUI,11 Dec 2017,03:47,04:20,33,33 mins late,03:49,04:49,396,True,True,Monday,Dec
+11 Dec 2017,1,BFM,BHALUI,11 Dec 2017,03:58,04:57,59,59 mins late,03:59,04:58,405,True,True,Monday,Dec
+11 Dec 2017,1,MNP,MANANPUR,11 Dec 2017,04:04,05:05,61,61 mins late,04:06,05:32,410,True,True,Monday,Dec
+11 Dec 2017,1,BSQP,BANSIPUR,11 Dec 2017,04:12,05:41,89,89 mins late,04:14,05:49,416,True,True,Monday,Dec
+11 Dec 2017,1,KIUL,KIUL JN,11 Dec 2017,04:42,05:56,74,74 mins late,04:44,05:58,424,True,True,Monday,Dec
+11 Dec 2017,1,LKR,LUCKEESARAI JN,11 Dec 2017,04:50,06:04,74,74 mins late,04:52,06:06,425,True,True,Monday,Dec
+11 Dec 2017,1,MKB,MANKATHA,11 Dec 2017,05:04,06:11,67,67 mins late,05:06,06:12,431,True,True,Monday,Dec
+11 Dec 2017,1,DMRX,DUMRI,11 Dec 2017,05:14,06:20,66,66 mins late,05:15,06:21,436,False,False,Monday,Dec
+11 Dec 2017,1,BRYA,BARHIYA,11 Dec 2017,05:23,06:26,63,63 mins late,05:25,06:28,440,True,True,Monday,Dec
+11 Dec 2017,1,RDUM,RAMPUR DUMRA,11 Dec 2017,05:53,06:34,41,41 mins late,05:54,06:35,446,True,True,Monday,Dec
+11 Dec 2017,1,HTZ,HATHIDAH JN,11 Dec 2017,05:59,06:41,42,42 mins late,06:01,06:43,451,True,True,Monday,Dec
+11 Dec 2017,1,TALL,TALL JN.,11 Dec 2017,06:07,06:49,42,42 mins late,06:08,06:56,453,True,True,Monday,Dec
+11 Dec 2017,1,MKA,MOKAMEH JN,11 Dec 2017,06:21,07:06,45,45 mins late,06:23,07:08,458,True,True,Monday,Dec
+11 Dec 2017,1,MOR,MOR,11 Dec 2017,06:31,07:17,46,46 mins late,06:33,07:18,465,True,True,Monday,Dec
+11 Dec 2017,1,KNHP,KANHAIPUR,11 Dec 2017,06:39,07:24,45,45 mins late,06:40,07:25,469,False,False,Monday,Dec
+11 Dec 2017,1,MMKB,MEKRA MAMARKHABAD,11 Dec 2017,06:44,07:29,45,45 mins late,06:45,07:30,471,False,False,Monday,Dec
+11 Dec 2017,1,PHK,PUNARAKH,11 Dec 2017,06:50,07:31,41,41 mins late,06:52,07:32,474,True,True,Monday,Dec
+11 Dec 2017,1,BARH,BARH,11 Dec 2017,07:04,07:43,39,39 mins late,07:06,07:45,484,True,True,Monday,Dec
+11 Dec 2017,1,ATL,ATHMAL GOLA,11 Dec 2017,07:15,07:54,39,39 mins late,07:17,07:56,493,True,True,Monday,Dec
+11 Dec 2017,1,BKP,BAKHTIYARPUR JN,11 Dec 2017,07:35,08:05,30,30 mins late,07:40,08:07,502,True,True,Monday,Dec
+11 Dec 2017,1,TKBG,TEKA BIGHA(H),11 Dec 2017,07:49,08:19,30,30 mins late,07:50,08:24,506,True,True,Monday,Dec
+11 Dec 2017,1,SMBH,SALIM PUR BIHAR(H),11 Dec 2017,07:54,08:28,34,34 mins late,07:55,08:29,508,False,False,Monday,Dec
+11 Dec 2017,1,KWO,KARAUTA,11 Dec 2017,07:59,08:33,34,34 mins late,08:00,08:35,511,True,True,Monday,Dec
+11 Dec 2017,1,KOO,KHUSROPUR,11 Dec 2017,08:12,08:42,30,30 mins late,08:14,08:49,517,True,True,Monday,Dec
+11 Dec 2017,1,FUT,FATUHA,11 Dec 2017,08:34,09:02,28,28 mins late,08:36,09:05,525,True,True,Monday,Dec
+11 Dec 2017,1,BKG,BANKA GHAT,11 Dec 2017,08:48,09:12,24,24 mins late,08:49,09:14,531,True,True,Monday,Dec
+11 Dec 2017,1,PNC,PATNA SAHEB,11 Dec 2017,08:55,09:20,25,25 mins late,08:57,09:22,537,True,True,Monday,Dec
+11 Dec 2017,1,GZH,GULZARBAGH,11 Dec 2017,09:05,09:30,25,25 mins late,09:07,09:32,540,True,True,Monday,Dec
+11 Dec 2017,1,RJPB,RAJENDRANAGAR T,11 Dec 2017,09:20,09:37,17,17 mins late,09:22,09:39,545,True,True,Monday,Dec
+11 Dec 2017,1,PNBE,PATNA JN,11 Dec 2017,09:45,09:47,2,2 mins late,Destination,00:00,547,False,True,Monday,Dec
+17 Dec 2017,0,KOAA,KOLKATA,17 Dec 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Sunday,Dec
+17 Dec 2017,0,NH,NAIHATI JN,17 Dec 2017,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Sunday,Dec
+17 Dec 2017,0,BDC,BANDEL JN,17 Dec 2017,21:06,21:13,7,7 mins late,21:11,21:15,42,True,True,Sunday,Dec
+17 Dec 2017,0,BWN,BARDDHAMAN,17 Dec 2017,22:06,22:16,10,10 mins late,22:11,22:18,109,True,True,Sunday,Dec
+17 Dec 2017,0,DGR,DURGAPUR,17 Dec 2017,23:01,23:14,13,13 mins late,23:03,23:16,173,True,True,Sunday,Dec
+17 Dec 2017,0,RNG,RANIGANJ,17 Dec 2017,23:22,23:41,19,19 mins late,23:24,23:43,198,True,True,Sunday,Dec
+18 Dec 2017,1,ASN,ASANSOL JN,17 Dec 2017,23:43,00:01,18,18 mins late,23:48,00:08,216,True,True,Monday,Dec
+18 Dec 2017,1,CRJ,CHITTARANJAN,18 Dec 2017,00:12,00:36,24,24 mins late,00:13,00:37,241,True,True,Monday,Dec
+18 Dec 2017,1,JMT,JAMTARA,18 Dec 2017,00:26,00:52,26,26 mins late,00:27,00:54,255,True,True,Monday,Dec
+18 Dec 2017,1,MDP,MADHUPUR JN,18 Dec 2017,01:17,01:30,13,13 mins late,01:57,02:13,297,True,True,Monday,Dec
+18 Dec 2017,1,JSME,JASIDIH JN,18 Dec 2017,02:23,02:34,11,11 mins late,02:28,02:35,326,False,False,Monday,Dec
+18 Dec 2017,1,STL,SIMULTALA,18 Dec 2017,02:48,02:55,7,7 mins late,02:50,02:57,351,False,False,Monday,Dec
+18 Dec 2017,1,JAJ,JHAJHA,18 Dec 2017,03:20,03:30,10,10 mins late,03:25,03:35,370,True,True,Monday,Dec
+18 Dec 2017,1,GHR,GIDHAUR,18 Dec 2017,03:33,03:48,15,15 mins late,03:35,03:50,382,True,True,Monday,Dec
+18 Dec 2017,1,JMU,JAMUI,18 Dec 2017,03:47,04:03,16,16 mins late,03:49,04:05,396,True,True,Monday,Dec
+18 Dec 2017,1,BFM,BHALUI,18 Dec 2017,03:58,04:12,14,14 mins late,03:59,04:14,405,True,True,Monday,Dec
+18 Dec 2017,1,MNP,MANANPUR,18 Dec 2017,04:04,04:23,19,19 mins late,04:06,04:25,410,True,True,Monday,Dec
+18 Dec 2017,1,BSQP,BANSIPUR,18 Dec 2017,04:12,04:31,19,19 mins late,04:14,04:32,416,False,False,Monday,Dec
+18 Dec 2017,1,KIUL,KIUL JN,18 Dec 2017,04:42,04:45,3,3 mins late,04:44,04:53,424,True,True,Monday,Dec
+18 Dec 2017,1,LKR,LUCKEESARAI JN,18 Dec 2017,04:50,05:00,10,10 mins late,04:52,05:02,425,True,True,Monday,Dec
+18 Dec 2017,1,MKB,MANKATHA,18 Dec 2017,05:04,05:09,5,5 mins late,05:06,05:11,431,True,True,Monday,Dec
+18 Dec 2017,1,DMRX,DUMRI,18 Dec 2017,05:14,05:19,5,5 mins late,05:15,05:20,436,False,False,Monday,Dec
+18 Dec 2017,1,BRYA,BARHIYA,18 Dec 2017,05:23,05:25,2,2 mins late,05:25,06:07,440,True,True,Monday,Dec
+18 Dec 2017,1,RDUM,RAMPUR DUMRA,18 Dec 2017,05:53,06:27,34,34 mins late,05:54,06:29,446,True,True,Monday,Dec
+18 Dec 2017,1,HTZ,HATHIDAH JN,18 Dec 2017,05:59,06:40,41,41 mins late,06:01,06:42,451,True,True,Monday,Dec
+18 Dec 2017,1,TALL,TALL JN.,18 Dec 2017,06:07,06:50,43,43 mins late,06:08,06:51,453,True,True,Monday,Dec
+18 Dec 2017,1,MKA,MOKAMEH JN,18 Dec 2017,06:21,07:00,39,39 mins late,06:23,07:02,458,True,True,Monday,Dec
+18 Dec 2017,1,MOR,MOR,18 Dec 2017,06:31,07:13,42,42 mins late,06:33,07:18,465,True,True,Monday,Dec
+18 Dec 2017,1,KNHP,KANHAIPUR,18 Dec 2017,06:39,07:24,45,45 mins late,06:40,07:25,469,False,False,Monday,Dec
+18 Dec 2017,1,MMKB,MEKRA MAMARKHABAD,18 Dec 2017,06:44,07:29,45,45 mins late,06:45,07:30,471,False,False,Monday,Dec
+18 Dec 2017,1,PHK,PUNARAKH,18 Dec 2017,06:50,07:34,44,44 mins late,06:52,07:44,474,True,True,Monday,Dec
+18 Dec 2017,1,BARH,BARH,18 Dec 2017,07:04,07:56,52,52 mins late,07:06,08:04,484,True,True,Monday,Dec
+18 Dec 2017,1,ATL,ATHMAL GOLA,18 Dec 2017,07:15,08:15,60,60 mins late,07:17,08:24,493,True,True,Monday,Dec
+18 Dec 2017,1,BKP,BAKHTIYARPUR JN,18 Dec 2017,07:35,08:33,58,58 mins late,07:40,08:35,502,True,True,Monday,Dec
+18 Dec 2017,1,TKBG,TEKA BIGHA(H),18 Dec 2017,07:49,08:41,52,52 mins late,07:50,08:44,506,True,True,Monday,Dec
+18 Dec 2017,1,SMBH,SALIM PUR BIHAR(H),18 Dec 2017,07:54,08:48,54,54 mins late,07:55,08:49,508,False,False,Monday,Dec
+18 Dec 2017,1,KWO,KARAUTA,18 Dec 2017,07:59,08:52,53,53 mins late,08:00,08:54,511,True,True,Monday,Dec
+18 Dec 2017,1,KOO,KHUSROPUR,18 Dec 2017,08:12,09:03,51,51 mins late,08:14,09:05,517,True,True,Monday,Dec
+18 Dec 2017,1,FUT,FATUHA,18 Dec 2017,08:34,09:11,37,37 mins late,08:36,09:13,525,True,True,Monday,Dec
+18 Dec 2017,1,BKG,BANKA GHAT,18 Dec 2017,08:48,09:18,30,30 mins late,08:49,09:20,531,True,True,Monday,Dec
+18 Dec 2017,1,PNC,PATNA SAHEB,18 Dec 2017,08:55,09:26,31,31 mins late,08:57,09:28,537,True,True,Monday,Dec
+18 Dec 2017,1,GZH,GULZARBAGH,18 Dec 2017,09:05,09:36,31,31 mins late,09:07,09:37,540,False,False,Monday,Dec
+18 Dec 2017,1,RJPB,RAJENDRANAGAR T,18 Dec 2017,09:20,09:35,15,15 mins late,09:22,09:37,545,False,False,Monday,Dec
+18 Dec 2017,1,PNBE,PATNA JN,18 Dec 2017,09:45,09:56,11,11 mins late,Destination,00:00,547,False,True,Monday,Dec
+26 Dec 2017,0,KOAA,KOLKATA,26 Dec 2017,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Tuesday,Dec
+26 Dec 2017,0,NH,NAIHATI JN,26 Dec 2017,20:43,20:34,-9,-9 mins late,20:45,20:45,33,True,True,Tuesday,Dec
+26 Dec 2017,0,BDC,BANDEL JN,26 Dec 2017,21:06,21:07,1,1 mins late,21:11,21:11,42,True,True,Tuesday,Dec
+26 Dec 2017,0,BWN,BARDDHAMAN,26 Dec 2017,22:06,22:07,1,1 mins late,22:11,22:11,109,True,True,Tuesday,Dec
+26 Dec 2017,0,DGR,DURGAPUR,26 Dec 2017,23:01,22:57,-4,-4 mins late,23:03,23:03,173,True,True,Tuesday,Dec
+26 Dec 2017,0,RNG,RANIGANJ,26 Dec 2017,23:22,23:25,3,3 mins late,23:24,23:27,198,True,True,Tuesday,Dec
+26 Dec 2017,0,ASN,ASANSOL JN,26 Dec 2017,23:43,23:46,3,3 mins late,23:48,23:53,216,True,True,Tuesday,Dec
+27 Dec 2017,1,CRJ,CHITTARANJAN,27 Dec 2017,00:12,00:20,8,8 mins late,00:13,00:23,241,True,True,Wednesday,Dec
+27 Dec 2017,1,JMT,JAMTARA,27 Dec 2017,00:26,00:40,14,14 mins late,00:27,00:41,255,False,False,Wednesday,Dec
+27 Dec 2017,1,MDP,MADHUPUR JN,27 Dec 2017,01:17,01:22,5,5 mins late,01:57,02:00,297,True,True,Wednesday,Dec
+27 Dec 2017,1,JSME,JASIDIH JN,27 Dec 2017,02:23,02:24,1,1 mins late,02:28,02:28,326,True,True,Wednesday,Dec
+27 Dec 2017,1,STL,SIMULTALA,27 Dec 2017,02:48,02:48,0,0 mins late,02:50,02:50,351,False,False,Wednesday,Dec
+27 Dec 2017,1,JAJ,JHAJHA,27 Dec 2017,03:20,03:32,12,12 mins late,03:25,03:37,370,True,True,Wednesday,Dec
+27 Dec 2017,1,GHR,GIDHAUR,27 Dec 2017,03:33,03:55,22,22 mins late,03:35,03:57,382,True,True,Wednesday,Dec
+27 Dec 2017,1,JMU,JAMUI,27 Dec 2017,03:47,04:10,23,23 mins late,03:49,04:12,396,True,True,Wednesday,Dec
+27 Dec 2017,1,BFM,BHALUI,27 Dec 2017,03:58,04:20,22,22 mins late,03:59,04:21,405,True,True,Wednesday,Dec
+27 Dec 2017,1,MNP,MANANPUR,27 Dec 2017,04:04,04:30,26,26 mins late,04:06,04:32,410,True,True,Wednesday,Dec
+27 Dec 2017,1,BSQP,BANSIPUR,27 Dec 2017,04:12,04:42,30,30 mins late,04:14,05:43,416,True,True,Wednesday,Dec
+27 Dec 2017,1,KIUL,KIUL JN,27 Dec 2017,04:42,06:10,88,88 mins late,04:44,06:15,424,True,True,Wednesday,Dec
+27 Dec 2017,1,LKR,LUCKEESARAI JN,27 Dec 2017,04:50,06:21,91,91 mins late,04:52,06:22,425,True,True,Wednesday,Dec
+27 Dec 2017,1,MKB,MANKATHA,27 Dec 2017,05:04,06:30,86,86 mins late,05:06,06:31,431,True,True,Wednesday,Dec
+27 Dec 2017,1,DMRX,DUMRI,27 Dec 2017,05:14,06:39,85,85 mins late,05:15,06:40,436,False,False,Wednesday,Dec
+27 Dec 2017,1,BRYA,BARHIYA,27 Dec 2017,05:23,06:45,82,82 mins late,05:25,06:46,440,True,True,Wednesday,Dec
+27 Dec 2017,1,RDUM,RAMPUR DUMRA,27 Dec 2017,05:53,06:54,61,61 mins late,05:54,06:55,446,True,True,Wednesday,Dec
+27 Dec 2017,1,HTZ,HATHIDAH JN,27 Dec 2017,05:59,07:01,62,62 mins late,06:01,07:03,451,True,True,Wednesday,Dec
+27 Dec 2017,1,TALL,TALL JN.,27 Dec 2017,06:07,07:09,62,62 mins late,06:08,07:10,453,True,True,Wednesday,Dec
+27 Dec 2017,1,MKA,MOKAMEH JN,27 Dec 2017,06:21,07:19,58,58 mins late,06:23,07:21,458,True,True,Wednesday,Dec
+27 Dec 2017,1,MOR,MOR,27 Dec 2017,06:31,07:28,57,57 mins late,06:33,07:29,465,True,True,Wednesday,Dec
+27 Dec 2017,1,KNHP,KANHAIPUR,27 Dec 2017,06:39,07:35,56,56 mins late,06:40,07:36,469,False,False,Wednesday,Dec
+27 Dec 2017,1,MMKB,MEKRA MAMARKHABAD,27 Dec 2017,06:44,07:40,56,56 mins late,06:45,07:41,471,False,False,Wednesday,Dec
+27 Dec 2017,1,PHK,PUNARAKH,27 Dec 2017,06:50,07:42,52,52 mins late,06:52,07:44,474,True,True,Wednesday,Dec
+27 Dec 2017,1,BARH,BARH,27 Dec 2017,07:04,07:54,50,50 mins late,07:06,07:55,484,True,True,Wednesday,Dec
+27 Dec 2017,1,ATL,ATHMAL GOLA,27 Dec 2017,07:15,08:04,49,49 mins late,07:17,08:06,493,True,True,Wednesday,Dec
+27 Dec 2017,1,BKP,BAKHTIYARPUR JN,27 Dec 2017,07:35,08:15,40,40 mins late,07:40,08:17,502,True,True,Wednesday,Dec
+27 Dec 2017,1,TKBG,TEKA BIGHA(H),27 Dec 2017,07:49,08:26,37,37 mins late,07:50,08:27,506,True,True,Wednesday,Dec
+27 Dec 2017,1,SMBH,SALIM PUR BIHAR(H),27 Dec 2017,07:54,08:31,37,37 mins late,07:55,08:32,508,False,False,Wednesday,Dec
+27 Dec 2017,1,KWO,KARAUTA,27 Dec 2017,07:59,08:48,49,49 mins late,08:00,09:02,511,True,True,Wednesday,Dec
+27 Dec 2017,1,KOO,KHUSROPUR,27 Dec 2017,08:12,09:10,58,58 mins late,08:14,09:15,517,True,True,Wednesday,Dec
+27 Dec 2017,1,FUT,FATUHA,27 Dec 2017,08:34,09:36,62,62 mins late,08:36,09:38,525,True,True,Wednesday,Dec
+27 Dec 2017,1,BKG,BANKA GHAT,27 Dec 2017,08:48,09:44,56,56 mins late,08:49,09:46,531,True,True,Wednesday,Dec
+27 Dec 2017,1,PNC,PATNA SAHEB,27 Dec 2017,08:55,09:54,59,59 mins late,08:57,09:57,537,True,True,Wednesday,Dec
+27 Dec 2017,1,GZH,GULZARBAGH,27 Dec 2017,09:05,10:03,58,58 mins late,09:07,10:06,540,True,True,Wednesday,Dec
+27 Dec 2017,1,RJPB,RAJENDRANAGAR T,27 Dec 2017,09:20,10:15,55,55 mins late,09:22,10:17,545,True,True,Wednesday,Dec
+27 Dec 2017,1,PNBE,PATNA JN,27 Dec 2017,09:45,10:26,41,41 mins late,Destination,00:00,547,False,True,Wednesday,Dec
+1 Jan 2018,0,KOAA,KOLKATA,1 Jan 2018,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Monday,Jan
+1 Jan 2018,0,NH,NAIHATI JN,1 Jan 2018,20:43,20:42,-1,-1 mins late,20:45,20:45,33,True,True,Monday,Jan
+1 Jan 2018,0,BDC,BANDEL JN,1 Jan 2018,21:06,21:07,1,1 mins late,21:11,21:11,42,True,True,Monday,Jan
+1 Jan 2018,0,BWN,BARDDHAMAN,1 Jan 2018,22:06,22:12,6,6 mins late,22:11,22:20,109,True,True,Monday,Jan
+1 Jan 2018,0,DGR,DURGAPUR,1 Jan 2018,23:01,23:03,2,2 mins late,23:03,23:05,173,True,True,Monday,Jan
+1 Jan 2018,0,RNG,RANIGANJ,1 Jan 2018,23:22,23:26,4,4 mins late,23:24,23:29,198,True,True,Monday,Jan
+1 Jan 2018,0,ASN,ASANSOL JN,1 Jan 2018,23:43,23:47,4,4 mins late,23:48,23:59,216,True,True,Monday,Jan
+2 Jan 2018,1,CRJ,CHITTARANJAN,2 Jan 2018,00:12,00:33,21,21 mins late,00:13,00:34,241,True,True,Tuesday,Jan
+2 Jan 2018,1,JMT,JAMTARA,2 Jan 2018,00:26,00:48,22,22 mins late,00:27,00:49,255,True,True,Tuesday,Jan
+2 Jan 2018,1,MDP,MADHUPUR JN,2 Jan 2018,01:17,01:23,6,6 mins late,01:57,01:58,297,True,True,Tuesday,Jan
+2 Jan 2018,1,JSME,JASIDIH JN,2 Jan 2018,02:23,02:22,-1,-1 mins late,02:28,02:29,326,True,True,Tuesday,Jan
+2 Jan 2018,1,STL,SIMULTALA,2 Jan 2018,02:48,02:49,1,1 mins late,02:50,02:50,351,True,True,Tuesday,Jan
+2 Jan 2018,1,JAJ,JHAJHA,2 Jan 2018,03:20,03:15,-5,-5 mins late,03:25,03:25,370,True,True,Tuesday,Jan
+2 Jan 2018,1,GHR,GIDHAUR,2 Jan 2018,03:33,03:40,7,7 mins late,03:35,03:42,382,True,True,Tuesday,Jan
+2 Jan 2018,1,JMU,JAMUI,2 Jan 2018,03:47,03:57,10,10 mins late,03:49,03:59,396,True,True,Tuesday,Jan
+2 Jan 2018,1,BFM,BHALUI,2 Jan 2018,03:58,04:10,12,12 mins late,03:59,04:11,405,True,True,Tuesday,Jan
+2 Jan 2018,1,MNP,MANANPUR,2 Jan 2018,04:04,04:20,16,16 mins late,04:06,04:32,410,True,True,Tuesday,Jan
+2 Jan 2018,1,BSQP,BANSIPUR,2 Jan 2018,04:12,04:48,36,36 mins late,04:14,05:31,416,True,True,Tuesday,Jan
+2 Jan 2018,1,KIUL,KIUL JN,2 Jan 2018,04:42,05:53,71,71 mins late,04:44,05:58,424,True,True,Tuesday,Jan
+2 Jan 2018,1,LKR,LUCKEESARAI JN,2 Jan 2018,04:50,06:04,74,74 mins late,04:52,06:06,425,True,True,Tuesday,Jan
+2 Jan 2018,1,MKB,MANKATHA,2 Jan 2018,05:04,06:14,70,70 mins late,05:06,06:15,431,True,True,Tuesday,Jan
+2 Jan 2018,1,DMRX,DUMRI,2 Jan 2018,05:14,06:23,69,69 mins late,05:15,06:24,436,False,False,Tuesday,Jan
+2 Jan 2018,1,BRYA,BARHIYA,2 Jan 2018,05:23,06:31,68,68 mins late,05:25,06:34,440,True,True,Tuesday,Jan
+2 Jan 2018,1,RDUM,RAMPUR DUMRA,2 Jan 2018,05:53,06:42,49,49 mins late,05:54,06:47,446,True,True,Tuesday,Jan
+2 Jan 2018,1,HTZ,HATHIDAH JN,2 Jan 2018,05:59,06:54,55,55 mins late,06:01,06:56,451,True,True,Tuesday,Jan
+2 Jan 2018,1,TALL,TALL JN.,2 Jan 2018,06:07,07:00,53,53 mins late,06:08,07:01,453,True,True,Tuesday,Jan
+2 Jan 2018,1,MKA,MOKAMEH JN,2 Jan 2018,06:21,07:08,47,47 mins late,06:23,07:10,458,True,True,Tuesday,Jan
+2 Jan 2018,1,MOR,MOR,2 Jan 2018,06:31,07:20,49,49 mins late,06:33,07:21,465,True,True,Tuesday,Jan
+2 Jan 2018,1,KNHP,KANHAIPUR,2 Jan 2018,06:39,07:27,48,48 mins late,06:40,07:28,469,False,False,Tuesday,Jan
+2 Jan 2018,1,MMKB,MEKRA MAMARKHABAD,2 Jan 2018,06:44,07:32,48,48 mins late,06:45,07:33,471,False,False,Tuesday,Jan
+2 Jan 2018,1,PHK,PUNARAKH,2 Jan 2018,06:50,07:36,46,46 mins late,06:52,07:37,474,True,True,Tuesday,Jan
+2 Jan 2018,1,BARH,BARH,2 Jan 2018,07:04,07:50,46,46 mins late,07:06,07:58,484,True,True,Tuesday,Jan
+2 Jan 2018,1,ATL,ATHMAL GOLA,2 Jan 2018,07:15,08:06,51,51 mins late,07:17,08:09,493,True,True,Tuesday,Jan
+2 Jan 2018,1,BKP,BAKHTIYARPUR JN,2 Jan 2018,07:35,08:20,45,45 mins late,07:40,08:22,502,True,True,Tuesday,Jan
+2 Jan 2018,1,TKBG,TEKA BIGHA(H),2 Jan 2018,07:49,08:28,39,39 mins late,07:50,08:29,506,True,True,Tuesday,Jan
+2 Jan 2018,1,SMBH,SALIM PUR BIHAR(H),2 Jan 2018,07:54,08:33,39,39 mins late,07:55,08:34,508,False,False,Tuesday,Jan
+2 Jan 2018,1,KWO,KARAUTA,2 Jan 2018,07:59,08:38,39,39 mins late,08:00,08:40,511,True,True,Tuesday,Jan
+2 Jan 2018,1,KOO,KHUSROPUR,2 Jan 2018,08:12,08:49,37,37 mins late,08:14,08:53,517,True,True,Tuesday,Jan
+2 Jan 2018,1,FUT,FATUHA,2 Jan 2018,08:34,09:07,33,33 mins late,08:36,09:11,525,True,True,Tuesday,Jan
+2 Jan 2018,1,BKG,BANKA GHAT,2 Jan 2018,08:48,09:20,32,32 mins late,08:49,09:21,531,True,True,Tuesday,Jan
+2 Jan 2018,1,PNC,PATNA SAHEB,2 Jan 2018,08:55,09:30,35,35 mins late,08:57,09:32,537,True,True,Tuesday,Jan
+2 Jan 2018,1,GZH,GULZARBAGH,2 Jan 2018,09:05,09:39,34,34 mins late,09:07,09:41,540,True,True,Tuesday,Jan
+1 Jan 2018,1,RJPB,RAJENDRANAGAR T,2 Jan 2018,09:20,09:51,31,31 mins late,09:22,09:51,545,True,True,Monday,Jan
+2 Jan 2018,1,PNBE,PATNA JN,2 Jan 2018,09:45,10:00,15,15 mins late,Destination,00:00,547,False,True,Tuesday,Jan
+20 Feb 2018,0,KOAA,KOLKATA,20 Feb 2018,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Tuesday,Feb
+20 Feb 2018,0,NH,NAIHATI JN,20 Feb 2018,20:43,20:41,-2,-2 mins late,20:45,20:45,33,True,True,Tuesday,Feb
+20 Feb 2018,0,BDC,BANDEL JN,20 Feb 2018,21:06,21:10,4,4 mins late,21:11,21:14,42,True,True,Tuesday,Feb
+20 Feb 2018,0,BWN,BARDDHAMAN,20 Feb 2018,22:06,22:22,16,16 mins late,22:11,22:25,109,True,True,Tuesday,Feb
+20 Feb 2018,0,DGR,DURGAPUR,20 Feb 2018,23:01,23:16,15,15 mins late,23:03,23:18,173,True,True,Tuesday,Feb
+20 Feb 2018,0,RNG,RANIGANJ,20 Feb 2018,23:22,23:38,16,16 mins late,23:24,23:40,198,True,True,Tuesday,Feb
+21 Feb 2018,1,ASN,ASANSOL JN,20 Feb 2018,23:43,00:03,20,20 mins late,23:48,00:04,216,False,False,Wednesday,Feb
+21 Feb 2018,1,CRJ,CHITTARANJAN,21 Feb 2018,00:12,00:33,21,21 mins late,00:13,00:35,241,True,True,Wednesday,Feb
+21 Feb 2018,1,JMT,JAMTARA,21 Feb 2018,00:26,00:46,20,20 mins late,00:27,00:48,255,True,True,Wednesday,Feb
+21 Feb 2018,1,MDP,MADHUPUR JN,21 Feb 2018,01:17,01:35,18,18 mins late,01:57,02:15,297,True,True,Wednesday,Feb
+21 Feb 2018,1,JSME,JASIDIH JN,21 Feb 2018,02:23,02:42,19,19 mins late,02:28,02:44,326,True,True,Wednesday,Feb
+21 Feb 2018,1,STL,SIMULTALA,21 Feb 2018,02:48,03:04,16,16 mins late,02:50,03:06,351,False,False,Wednesday,Feb
+21 Feb 2018,1,JAJ,JHAJHA,21 Feb 2018,03:20,03:30,10,10 mins late,03:25,03:35,370,True,True,Wednesday,Feb
+21 Feb 2018,1,GHR,GIDHAUR,21 Feb 2018,03:33,03:49,16,16 mins late,03:35,04:07,382,True,True,Wednesday,Feb
+21 Feb 2018,1,JMU,JAMUI,21 Feb 2018,03:47,04:22,35,35 mins late,03:49,04:24,396,True,True,Wednesday,Feb
+21 Feb 2018,1,BFM,BHALUI,21 Feb 2018,03:58,04:32,34,34 mins late,03:59,04:33,405,True,True,Wednesday,Feb
+21 Feb 2018,1,MNP,MANANPUR,21 Feb 2018,04:04,04:42,38,38 mins late,04:06,04:53,410,True,True,Wednesday,Feb
+21 Feb 2018,1,BSQP,BANSIPUR,21 Feb 2018,04:12,05:00,48,48 mins late,04:14,05:54,416,True,True,Wednesday,Feb
+21 Feb 2018,1,KIUL,KIUL JN,21 Feb 2018,04:42,06:22,100,100 mins late,04:44,06:23,424,False,False,Wednesday,Feb
+21 Feb 2018,1,LKR,LUCKEESARAI JN,21 Feb 2018,04:50,06:39,109,109 mins late,04:52,06:41,425,True,True,Wednesday,Feb
+21 Feb 2018,1,MKB,MANKATHA,21 Feb 2018,05:04,06:48,104,104 mins late,05:06,06:49,431,True,True,Wednesday,Feb
+21 Feb 2018,1,DMRX,DUMRI,21 Feb 2018,05:14,06:57,103,103 mins late,05:15,06:58,436,False,False,Wednesday,Feb
+21 Feb 2018,1,BRYA,BARHIYA,21 Feb 2018,05:23,07:03,100,100 mins late,05:25,07:05,440,True,True,Wednesday,Feb
+21 Feb 2018,1,RDUM,RAMPUR DUMRA,21 Feb 2018,05:53,07:11,78,78 mins late,05:54,07:12,446,True,True,Wednesday,Feb
+21 Feb 2018,1,HTZ,HATHIDAH JN,21 Feb 2018,05:59,07:18,79,79 mins late,06:01,07:20,451,True,True,Wednesday,Feb
+21 Feb 2018,1,TALL,TALL JN.,21 Feb 2018,06:07,07:25,78,78 mins late,06:08,07:26,453,True,True,Wednesday,Feb
+21 Feb 2018,1,MKA,MOKAMEH JN,21 Feb 2018,06:21,07:38,77,77 mins late,06:23,07:40,458,True,True,Wednesday,Feb
+21 Feb 2018,1,MOR,MOR,21 Feb 2018,06:31,07:50,79,79 mins late,06:33,07:52,465,True,True,Wednesday,Feb
+21 Feb 2018,1,KNHP,KANHAIPUR,21 Feb 2018,06:39,07:58,79,79 mins late,06:40,07:59,469,False,False,Wednesday,Feb
+21 Feb 2018,1,MMKB,MEKRA MAMARKHABAD,21 Feb 2018,06:44,08:03,79,79 mins late,06:45,08:04,471,False,False,Wednesday,Feb
+21 Feb 2018,1,PHK,PUNARAKH,21 Feb 2018,06:50,08:05,75,75 mins late,06:52,08:07,474,True,True,Wednesday,Feb
+21 Feb 2018,1,BARH,BARH,21 Feb 2018,07:04,08:18,74,74 mins late,07:06,08:20,484,True,True,Wednesday,Feb
+21 Feb 2018,1,ATL,ATHMAL GOLA,21 Feb 2018,07:15,08:29,74,74 mins late,07:17,08:31,493,True,True,Wednesday,Feb
+21 Feb 2018,1,BKP,BAKHTIYARPUR JN,21 Feb 2018,07:35,08:40,65,65 mins late,07:40,08:42,502,True,True,Wednesday,Feb
+21 Feb 2018,1,TKBG,TEKA BIGHA(H),21 Feb 2018,07:49,08:48,59,59 mins late,07:50,08:49,506,True,True,Wednesday,Feb
+21 Feb 2018,1,SMBH,SALIM PUR BIHAR(H),21 Feb 2018,07:54,08:53,59,59 mins late,07:55,08:54,508,False,False,Wednesday,Feb
+21 Feb 2018,1,KWO,KARAUTA,21 Feb 2018,07:59,08:56,57,57 mins late,08:00,08:57,511,True,True,Wednesday,Feb
+21 Feb 2018,1,KOO,KHUSROPUR,21 Feb 2018,08:12,09:03,51,51 mins late,08:14,09:04,517,True,True,Wednesday,Feb
+21 Feb 2018,1,FUT,FATUHA,21 Feb 2018,08:34,09:10,36,36 mins late,08:36,09:11,525,True,True,Wednesday,Feb
+21 Feb 2018,1,BKG,BANKA GHAT,21 Feb 2018,08:48,09:17,29,29 mins late,08:49,09:19,531,True,True,Wednesday,Feb
+21 Feb 2018,1,PNC,PATNA SAHEB,21 Feb 2018,08:55,09:24,29,29 mins late,08:57,09:25,537,True,True,Wednesday,Feb
+21 Feb 2018,1,GZH,GULZARBAGH,21 Feb 2018,09:05,09:32,27,27 mins late,09:07,09:33,540,True,True,Wednesday,Feb
+21 Feb 2018,1,RJPB,RAJENDRANAGAR T,21 Feb 2018,09:20,09:39,19,19 mins late,09:22,09:41,545,True,True,Wednesday,Feb
+21 Feb 2018,1,PNBE,PATNA JN,21 Feb 2018,09:45,10:00,15,15 mins late,Destination,00:00,547,False,True,Wednesday,Feb
+21 Feb 2018,0,KOAA,KOLKATA,21 Feb 2018,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Wednesday,Feb
+21 Feb 2018,0,NH,NAIHATI JN,21 Feb 2018,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Wednesday,Feb
+21 Feb 2018,0,BDC,BANDEL JN,21 Feb 2018,21:06,21:18,12,12 mins late,21:11,21:21,42,True,True,Wednesday,Feb
+21 Feb 2018,0,BWN,BARDDHAMAN,21 Feb 2018,22:06,22:32,26,26 mins late,22:11,22:41,109,True,True,Wednesday,Feb
+21 Feb 2018,0,DGR,DURGAPUR,21 Feb 2018,23:01,23:31,30,30 mins late,23:03,23:33,173,True,True,Wednesday,Feb
+21 Feb 2018,0,RNG,RANIGANJ,21 Feb 2018,23:22,23:54,32,32 mins late,23:24,23:56,198,True,True,Wednesday,Feb
+22 Feb 2018,1,ASN,ASANSOL JN,21 Feb 2018,23:43,00:12,29,29 mins late,23:48,00:13,216,False,False,Thursday,Feb
+22 Feb 2018,1,CRJ,CHITTARANJAN,22 Feb 2018,00:12,00:52,40,40 mins late,00:13,00:54,241,True,True,Thursday,Feb
+22 Feb 2018,1,JMT,JAMTARA,22 Feb 2018,00:26,01:07,41,41 mins late,00:27,01:09,255,True,True,Thursday,Feb
+22 Feb 2018,1,MDP,MADHUPUR JN,22 Feb 2018,01:17,01:46,29,29 mins late,01:57,02:36,297,True,True,Thursday,Feb
+22 Feb 2018,1,JSME,JASIDIH JN,22 Feb 2018,02:23,03:02,39,39 mins late,02:28,03:05,326,True,True,Thursday,Feb
+22 Feb 2018,1,STL,SIMULTALA,22 Feb 2018,02:48,03:22,34,34 mins late,02:50,03:23,351,False,False,Thursday,Feb
+22 Feb 2018,1,JAJ,JHAJHA,22 Feb 2018,03:20,03:50,30,30 mins late,03:25,03:55,370,True,True,Thursday,Feb
+22 Feb 2018,1,GHR,GIDHAUR,22 Feb 2018,03:33,04:09,36,36 mins late,03:35,04:24,382,True,True,Thursday,Feb
+22 Feb 2018,1,JMU,JAMUI,22 Feb 2018,03:47,04:47,60,60 mins late,03:49,04:49,396,True,True,Thursday,Feb
+22 Feb 2018,1,BFM,BHALUI,22 Feb 2018,03:58,04:58,60,60 mins late,03:59,04:59,405,True,True,Thursday,Feb
+22 Feb 2018,1,MNP,MANANPUR,22 Feb 2018,04:04,05:07,63,63 mins late,04:06,06:21,410,True,True,Thursday,Feb
+22 Feb 2018,1,BSQP,BANSIPUR,22 Feb 2018,04:12,06:44,152,152 mins late,04:14,06:45,416,True,True,Thursday,Feb
+22 Feb 2018,1,KIUL,KIUL JN,22 Feb 2018,04:42,07:10,148,148 mins late,04:44,08:09,424,True,True,Thursday,Feb
+22 Feb 2018,1,LKR,LUCKEESARAI JN,22 Feb 2018,04:50,08:15,205,205 mins late,04:52,08:16,425,True,True,Thursday,Feb
+22 Feb 2018,1,MKB,MANKATHA,22 Feb 2018,05:04,08:23,199,199 mins late,05:06,08:24,431,True,True,Thursday,Feb
+22 Feb 2018,1,DMRX,DUMRI,22 Feb 2018,05:14,08:32,198,198 mins late,05:15,08:33,436,False,False,Thursday,Feb
+22 Feb 2018,1,BRYA,BARHIYA,22 Feb 2018,05:23,08:35,192,192 mins late,05:25,08:37,440,True,True,Thursday,Feb
+22 Feb 2018,1,RDUM,RAMPUR DUMRA,22 Feb 2018,05:53,08:44,171,171 mins late,05:54,08:45,446,True,True,Thursday,Feb
+22 Feb 2018,1,HTZ,HATHIDAH JN,22 Feb 2018,05:59,08:51,172,172 mins late,06:01,08:53,451,True,True,Thursday,Feb
+22 Feb 2018,1,TALL,TALL JN.,22 Feb 2018,06:07,08:58,171,171 mins late,06:08,09:02,453,True,True,Thursday,Feb
+22 Feb 2018,1,MKA,MOKAMEH JN,22 Feb 2018,06:21,09:14,173,173 mins late,06:23,09:20,458,True,True,Thursday,Feb
+22 Feb 2018,1,MOR,MOR,22 Feb 2018,06:31,09:30,179,179 mins late,06:33,09:32,465,True,True,Thursday,Feb
+22 Feb 2018,1,KNHP,KANHAIPUR,22 Feb 2018,06:39,09:38,179,179 mins late,06:40,09:39,469,False,False,Thursday,Feb
+22 Feb 2018,1,MMKB,MEKRA MAMARKHABAD,22 Feb 2018,06:44,09:43,179,179 mins late,06:45,09:44,471,False,False,Thursday,Feb
+22 Feb 2018,1,PHK,PUNARAKH,22 Feb 2018,06:50,09:45,175,175 mins late,06:52,09:46,474,True,True,Thursday,Feb
+22 Feb 2018,1,BARH,BARH,22 Feb 2018,07:04,09:58,174,174 mins late,07:06,10:00,484,True,True,Thursday,Feb
+22 Feb 2018,1,ATL,ATHMAL GOLA,22 Feb 2018,07:15,10:09,174,174 mins late,07:17,10:10,493,True,True,Thursday,Feb
+22 Feb 2018,1,BKP,BAKHTIYARPUR JN,22 Feb 2018,07:35,10:19,164,164 mins late,07:40,10:21,502,True,True,Thursday,Feb
+22 Feb 2018,1,TKBG,TEKA BIGHA(H),22 Feb 2018,07:49,10:28,159,159 mins late,07:50,10:29,506,True,True,Thursday,Feb
+22 Feb 2018,1,SMBH,SALIM PUR BIHAR(H),22 Feb 2018,07:54,10:33,159,159 mins late,07:55,10:34,508,False,False,Thursday,Feb
+22 Feb 2018,1,KWO,KARAUTA,22 Feb 2018,07:59,10:36,157,157 mins late,08:00,10:37,511,True,True,Thursday,Feb
+22 Feb 2018,1,KOO,KHUSROPUR,22 Feb 2018,08:12,10:45,153,153 mins late,08:14,10:47,517,True,True,Thursday,Feb
+22 Feb 2018,1,FUT,FATUHA,22 Feb 2018,08:34,10:57,143,143 mins late,08:36,10:59,525,True,True,Thursday,Feb
+22 Feb 2018,1,BKG,BANKA GHAT,22 Feb 2018,08:48,11:06,138,138 mins late,08:49,11:08,531,True,True,Thursday,Feb
+22 Feb 2018,1,PNC,PATNA SAHEB,22 Feb 2018,08:55,11:17,142,142 mins late,08:57,11:19,537,True,True,Thursday,Feb
+22 Feb 2018,1,GZH,GULZARBAGH,22 Feb 2018,09:05,11:25,140,140 mins late,09:07,11:26,540,True,True,Thursday,Feb
+22 Feb 2018,1,RJPB,RAJENDRANAGAR T,22 Feb 2018,09:20,11:34,134,134 mins late,09:22,11:36,545,True,True,Thursday,Feb
+22 Feb 2018,1,PNBE,PATNA JN,22 Feb 2018,09:45,11:45,120,120 mins late,Destination,00:00,547,False,True,Thursday,Feb
+1 Mar 2018,0,KOAA,KOLKATA,1 Mar 2018,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Thursday,Mar
+1 Mar 2018,0,NH,NAIHATI JN,1 Mar 2018,20:43,20:40,-3,-3 mins late,20:45,20:45,33,True,True,Thursday,Mar
+1 Mar 2018,0,BDC,BANDEL JN,1 Mar 2018,21:06,21:08,2,2 mins late,21:11,21:14,42,True,True,Thursday,Mar
+1 Mar 2018,0,BWN,BARDDHAMAN,1 Mar 2018,22:06,22:08,2,2 mins late,22:11,22:11,109,True,True,Thursday,Mar
+1 Mar 2018,0,DGR,DURGAPUR,1 Mar 2018,23:01,23:00,-1,-1 mins late,23:03,23:03,173,True,True,Thursday,Mar
+1 Mar 2018,0,RNG,RANIGANJ,1 Mar 2018,23:22,23:23,1,1 mins late,23:24,23:25,198,True,True,Thursday,Mar
+1 Mar 2018,0,ASN,ASANSOL JN,1 Mar 2018,23:43,23:39,-4,-4 mins late,23:48,23:59,216,True,True,Thursday,Mar
+2 Mar 2018,1,CRJ,CHITTARANJAN,2 Mar 2018,00:12,00:27,15,15 mins late,00:13,00:29,241,True,True,Friday,Mar
+2 Mar 2018,1,JMT,JAMTARA,2 Mar 2018,00:26,00:42,16,16 mins late,00:27,00:44,255,True,True,Friday,Mar
+2 Mar 2018,1,MDP,MADHUPUR JN,2 Mar 2018,01:17,01:21,4,4 mins late,01:57,02:02,297,True,True,Friday,Mar
+2 Mar 2018,1,JSME,JASIDIH JN,2 Mar 2018,02:23,02:30,7,7 mins late,02:28,02:32,326,True,True,Friday,Mar
+2 Mar 2018,1,STL,SIMULTALA,2 Mar 2018,02:48,02:52,4,4 mins late,02:50,02:54,351,False,False,Friday,Mar
+2 Mar 2018,1,JAJ,JHAJHA,2 Mar 2018,03:20,03:20,0,0 mins late,03:25,03:25,370,True,True,Friday,Mar
+2 Mar 2018,1,GHR,GIDHAUR,2 Mar 2018,03:33,03:39,6,6 mins late,03:35,03:56,382,True,True,Friday,Mar
+2 Mar 2018,1,JMU,JAMUI,2 Mar 2018,03:47,04:13,26,26 mins late,03:49,04:15,396,True,True,Friday,Mar
+2 Mar 2018,1,BFM,BHALUI,2 Mar 2018,03:58,04:25,27,27 mins late,03:59,04:26,405,True,True,Friday,Mar
+2 Mar 2018,1,MNP,MANANPUR,2 Mar 2018,04:04,04:31,27,27 mins late,04:06,04:33,410,True,True,Friday,Mar
+2 Mar 2018,1,BSQP,BANSIPUR,2 Mar 2018,04:12,04:42,30,30 mins late,04:14,04:44,416,True,True,Friday,Mar
+2 Mar 2018,1,KIUL,KIUL JN,2 Mar 2018,04:42,04:57,15,15 mins late,04:44,05:32,424,True,True,Friday,Mar
+2 Mar 2018,1,LKR,LUCKEESARAI JN,2 Mar 2018,04:50,05:38,48,48 mins late,04:52,05:39,425,True,True,Friday,Mar
+2 Mar 2018,1,MKB,MANKATHA,2 Mar 2018,05:04,05:56,52,52 mins late,05:06,05:58,431,True,True,Friday,Mar
+2 Mar 2018,1,DMRX,DUMRI,2 Mar 2018,05:14,06:06,52,52 mins late,05:15,06:07,436,False,False,Friday,Mar
+2 Mar 2018,1,BRYA,BARHIYA,2 Mar 2018,05:23,06:10,47,47 mins late,05:25,06:12,440,True,True,Friday,Mar
+2 Mar 2018,1,RDUM,RAMPUR DUMRA,2 Mar 2018,05:53,06:19,26,26 mins late,05:54,06:20,446,True,True,Friday,Mar
+2 Mar 2018,1,HTZ,HATHIDAH JN,2 Mar 2018,05:59,06:26,27,27 mins late,06:01,06:28,451,True,True,Friday,Mar
+2 Mar 2018,1,TALL,TALL JN.,2 Mar 2018,06:07,06:32,25,25 mins late,06:08,06:33,453,True,True,Friday,Mar
+2 Mar 2018,1,MKA,MOKAMEH JN,2 Mar 2018,06:21,06:45,24,24 mins late,06:23,06:47,458,True,True,Friday,Mar
+2 Mar 2018,1,MOR,MOR,2 Mar 2018,06:31,06:57,26,26 mins late,06:33,06:59,465,True,True,Friday,Mar
+2 Mar 2018,1,KNHP,KANHAIPUR,2 Mar 2018,06:39,07:05,26,26 mins late,06:40,07:06,469,False,False,Friday,Mar
+2 Mar 2018,1,MMKB,MEKRA MAMARKHABAD,2 Mar 2018,06:44,07:10,26,26 mins late,06:45,07:11,471,False,False,Friday,Mar
+2 Mar 2018,1,PHK,PUNARAKH,2 Mar 2018,06:50,07:13,23,23 mins late,06:52,07:15,474,True,True,Friday,Mar
+2 Mar 2018,1,BARH,BARH,2 Mar 2018,07:04,07:25,21,21 mins late,07:06,07:27,484,True,True,Friday,Mar
+2 Mar 2018,1,ATL,ATHMAL GOLA,2 Mar 2018,07:15,07:34,19,19 mins late,07:17,07:36,493,True,True,Friday,Mar
+2 Mar 2018,1,BKP,BAKHTIYARPUR JN,2 Mar 2018,07:35,07:45,10,10 mins late,07:40,07:47,502,True,True,Friday,Mar
+2 Mar 2018,1,TKBG,TEKA BIGHA(H),2 Mar 2018,07:49,07:57,8,8 mins late,07:50,07:59,506,True,True,Friday,Mar
+2 Mar 2018,1,SMBH,SALIM PUR BIHAR(H),2 Mar 2018,07:54,08:03,9,9 mins late,07:55,08:04,508,False,False,Friday,Mar
+2 Mar 2018,1,KWO,KARAUTA,2 Mar 2018,07:59,08:07,8,8 mins late,08:00,08:12,511,True,True,Friday,Mar
+2 Mar 2018,1,KOO,KHUSROPUR,2 Mar 2018,08:12,08:19,7,7 mins late,08:14,08:29,517,True,True,Friday,Mar
+2 Mar 2018,1,FUT,FATUHA,2 Mar 2018,08:34,08:47,13,13 mins late,08:36,08:49,525,True,True,Friday,Mar
+2 Mar 2018,1,BKG,BANKA GHAT,2 Mar 2018,08:48,08:56,8,8 mins late,08:49,09:05,531,True,True,Friday,Mar
+2 Mar 2018,1,PNC,PATNA SAHEB,2 Mar 2018,08:55,09:13,18,18 mins late,08:57,09:15,537,True,True,Friday,Mar
+2 Mar 2018,1,GZH,GULZARBAGH,2 Mar 2018,09:05,09:22,17,17 mins late,09:07,09:24,540,True,True,Friday,Mar
+2 Mar 2018,1,RJPB,RAJENDRANAGAR T,2 Mar 2018,09:20,09:33,13,13 mins late,09:22,09:35,545,True,True,Friday,Mar
+2 Mar 2018,1,PNBE,PATNA JN,2 Mar 2018,09:45,09:45,0,0 mins late,Destination,00:00,547,False,True,Friday,Mar
+2 Mar 2018,0,KOAA,KOLKATA,2 Mar 2018,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Friday,Mar
+2 Mar 2018,0,NH,NAIHATI JN,2 Mar 2018,20:43,20:41,-2,-2 mins late,20:45,20:45,33,True,True,Friday,Mar
+2 Mar 2018,0,BDC,BANDEL JN,2 Mar 2018,21:06,21:08,2,2 mins late,21:11,21:11,42,True,True,Friday,Mar
+2 Mar 2018,0,BWN,BARDDHAMAN,2 Mar 2018,22:06,22:11,5,5 mins late,22:11,22:14,109,True,True,Friday,Mar
+2 Mar 2018,0,DGR,DURGAPUR,2 Mar 2018,23:01,23:02,1,1 mins late,23:03,23:04,173,True,True,Friday,Mar
+2 Mar 2018,0,RNG,RANIGANJ,2 Mar 2018,23:22,23:25,3,3 mins late,23:24,23:27,198,True,True,Friday,Mar
+2 Mar 2018,0,ASN,ASANSOL JN,2 Mar 2018,23:43,23:43,0,0 mins late,23:48,23:58,216,True,True,Friday,Mar
+3 Mar 2018,1,CRJ,CHITTARANJAN,3 Mar 2018,00:12,00:23,11,11 mins late,00:13,00:25,241,True,True,Saturday,Mar
+3 Mar 2018,1,JMT,JAMTARA,3 Mar 2018,00:26,00:37,11,11 mins late,00:27,00:39,255,True,True,Saturday,Mar
+3 Mar 2018,1,MDP,MADHUPUR JN,3 Mar 2018,01:17,01:12,-5,-5 mins late,01:57,01:57,297,True,True,Saturday,Mar
+3 Mar 2018,1,JSME,JASIDIH JN,3 Mar 2018,02:23,02:23,0,0 mins late,02:28,02:28,326,True,True,Saturday,Mar
+3 Mar 2018,1,STL,SIMULTALA,3 Mar 2018,02:48,02:45,-3,-3 mins late,02:50,02:51,351,True,True,Saturday,Mar
+3 Mar 2018,1,JAJ,JHAJHA,3 Mar 2018,03:20,03:10,-10,-10 mins late,03:25,03:25,370,True,True,Saturday,Mar
+3 Mar 2018,1,GHR,GIDHAUR,3 Mar 2018,03:33,03:40,7,7 mins late,03:35,04:04,382,True,True,Saturday,Mar
+3 Mar 2018,1,JMU,JAMUI,3 Mar 2018,03:47,04:18,31,31 mins late,03:49,04:20,396,True,True,Saturday,Mar
+3 Mar 2018,1,BFM,BHALUI,3 Mar 2018,03:58,04:31,33,33 mins late,03:59,04:32,405,True,True,Saturday,Mar
+3 Mar 2018,1,MNP,MANANPUR,3 Mar 2018,04:04,04:38,34,34 mins late,04:06,04:40,410,True,True,Saturday,Mar
+3 Mar 2018,1,BSQP,BANSIPUR,3 Mar 2018,04:12,04:54,42,42 mins late,04:14,05:01,416,True,True,Saturday,Mar
+3 Mar 2018,1,KIUL,KIUL JN,3 Mar 2018,04:42,05:29,47,47 mins late,04:44,05:30,424,False,False,Saturday,Mar
+3 Mar 2018,1,LKR,LUCKEESARAI JN,3 Mar 2018,04:50,05:43,53,53 mins late,04:52,05:45,425,True,True,Saturday,Mar
+3 Mar 2018,1,MKB,MANKATHA,3 Mar 2018,05:04,05:51,47,47 mins late,05:06,05:52,431,True,True,Saturday,Mar
+3 Mar 2018,1,DMRX,DUMRI,3 Mar 2018,05:14,06:00,46,46 mins late,05:15,06:01,436,False,False,Saturday,Mar
+3 Mar 2018,1,BRYA,BARHIYA,3 Mar 2018,05:23,06:06,43,43 mins late,05:25,06:08,440,True,True,Saturday,Mar
+3 Mar 2018,1,RDUM,RAMPUR DUMRA,3 Mar 2018,05:53,06:14,21,21 mins late,05:54,06:15,446,True,True,Saturday,Mar
+3 Mar 2018,1,HTZ,HATHIDAH JN,3 Mar 2018,05:59,06:20,21,21 mins late,06:01,06:21,451,True,True,Saturday,Mar
+3 Mar 2018,1,TALL,TALL JN.,3 Mar 2018,06:07,06:27,20,20 mins late,06:08,06:28,453,True,True,Saturday,Mar
+3 Mar 2018,1,MKA,MOKAMEH JN,3 Mar 2018,06:21,06:40,19,19 mins late,06:23,06:42,458,True,True,Saturday,Mar
+3 Mar 2018,1,MOR,MOR,3 Mar 2018,06:31,06:51,20,20 mins late,06:33,06:53,465,True,True,Saturday,Mar
+3 Mar 2018,1,KNHP,KANHAIPUR,3 Mar 2018,06:39,06:59,20,20 mins late,06:40,07:00,469,False,False,Saturday,Mar
+3 Mar 2018,1,MMKB,MEKRA MAMARKHABAD,3 Mar 2018,06:44,07:04,20,20 mins late,06:45,07:05,471,False,False,Saturday,Mar
+3 Mar 2018,1,PHK,PUNARAKH,3 Mar 2018,06:50,07:06,16,16 mins late,06:52,07:08,474,True,True,Saturday,Mar
+3 Mar 2018,1,BARH,BARH,3 Mar 2018,07:04,07:18,14,14 mins late,07:06,07:20,484,True,True,Saturday,Mar
+3 Mar 2018,1,ATL,ATHMAL GOLA,3 Mar 2018,07:15,07:28,13,13 mins late,07:17,07:30,493,True,True,Saturday,Mar
+3 Mar 2018,1,BKP,BAKHTIYARPUR JN,3 Mar 2018,07:35,07:39,4,4 mins late,07:40,07:41,502,True,True,Saturday,Mar
+3 Mar 2018,1,TKBG,TEKA BIGHA(H),3 Mar 2018,07:49,07:48,-1,-1 mins late,07:50,07:51,506,True,True,Saturday,Mar
+3 Mar 2018,1,SMBH,SALIM PUR BIHAR(H),3 Mar 2018,07:54,07:55,1,1 mins late,07:55,07:56,508,False,False,Saturday,Mar
+3 Mar 2018,1,KWO,KARAUTA,3 Mar 2018,07:59,07:59,0,0 mins late,08:00,08:01,511,True,True,Saturday,Mar
+3 Mar 2018,1,KOO,KHUSROPUR,3 Mar 2018,08:12,08:12,0,0 mins late,08:14,08:20,517,True,True,Saturday,Mar
+3 Mar 2018,1,FUT,FATUHA,3 Mar 2018,08:34,08:43,9,9 mins late,08:36,08:45,525,True,True,Saturday,Mar
+3 Mar 2018,1,BKG,BANKA GHAT,3 Mar 2018,08:48,08:54,6,6 mins late,08:49,08:55,531,True,True,Saturday,Mar
+3 Mar 2018,1,PNC,PATNA SAHEB,3 Mar 2018,08:55,09:02,7,7 mins late,08:57,09:04,537,True,True,Saturday,Mar
+3 Mar 2018,1,GZH,GULZARBAGH,3 Mar 2018,09:05,09:14,9,9 mins late,09:07,09:29,540,True,True,Saturday,Mar
+3 Mar 2018,1,RJPB,RAJENDRANAGAR T,3 Mar 2018,09:20,09:36,16,16 mins late,09:22,09:38,545,True,True,Saturday,Mar
+3 Mar 2018,1,PNBE,PATNA JN,3 Mar 2018,09:45,09:49,4,4 mins late,Destination,00:00,547,False,True,Saturday,Mar
+4 Mar 2018,0,KOAA,KOLKATA,4 Mar 2018,Source,00:00,0,0 mins late,19:50,19:50,0,True,True,Sunday,Mar
+4 Mar 2018,0,NH,NAIHATI JN,4 Mar 2018,20:43,20:43,0,0 mins late,20:45,20:45,33,True,True,Sunday,Mar
+4 Mar 2018,0,BDC,BANDEL JN,4 Mar 2018,21:06,21:09,3,3 mins late,21:11,21:14,42,True,True,Sunday,Mar
+4 Mar 2018,0,BWN,BARDDHAMAN,4 Mar 2018,22:06,22:21,15,15 mins late,22:11,22:25,109,True,True,Sunday,Mar
+4 Mar 2018,0,DGR,DURGAPUR,4 Mar 2018,23:01,23:17,16,16 mins late,23:03,23:19,173,True,True,Sunday,Mar
+4 Mar 2018,0,RNG,RANIGANJ,4 Mar 2018,23:22,23:44,22,22 mins late,23:24,23:47,198,True,True,Sunday,Mar
+5 Mar 2018,1,ASN,ASANSOL JN,4 Mar 2018,23:43,00:02,19,19 mins late,23:48,00:03,216,False,False,Monday,Mar
+5 Mar 2018,1,CRJ,CHITTARANJAN,5 Mar 2018,00:12,00:46,34,34 mins late,00:13,00:48,241,True,True,Monday,Mar
+5 Mar 2018,1,JMT,JAMTARA,5 Mar 2018,00:26,01:02,36,36 mins late,00:27,01:04,255,True,True,Monday,Mar
+5 Mar 2018,1,MDP,MADHUPUR JN,5 Mar 2018,01:17,01:49,32,32 mins late,01:57,02:20,297,True,True,Monday,Mar
+5 Mar 2018,1,JSME,JASIDIH JN,5 Mar 2018,02:23,02:45,22,22 mins late,02:28,02:50,326,True,True,Monday,Mar
+5 Mar 2018,1,STL,SIMULTALA,5 Mar 2018,02:48,03:17,29,29 mins late,02:50,03:18,351,True,True,Monday,Mar
+5 Mar 2018,1,JAJ,JHAJHA,5 Mar 2018,03:20,03:50,30,30 mins late,03:25,03:55,370,True,True,Monday,Mar
+5 Mar 2018,1,GHR,GIDHAUR,5 Mar 2018,03:33,04:10,37,37 mins late,03:35,04:12,382,True,True,Monday,Mar
+5 Mar 2018,1,JMU,JAMUI,5 Mar 2018,03:47,04:26,39,39 mins late,03:49,04:28,396,True,True,Monday,Mar
+5 Mar 2018,1,BFM,BHALUI,5 Mar 2018,03:58,04:38,40,40 mins late,03:59,04:39,405,True,True,Monday,Mar
+5 Mar 2018,1,MNP,MANANPUR,5 Mar 2018,04:04,04:46,42,42 mins late,04:06,05:02,410,True,True,Monday,Mar
+5 Mar 2018,1,BSQP,BANSIPUR,5 Mar 2018,04:12,05:12,60,60 mins late,04:14,05:14,416,True,True,Monday,Mar
+5 Mar 2018,1,KIUL,KIUL JN,5 Mar 2018,04:42,05:26,44,44 mins late,04:44,05:27,424,False,True,Monday,Mar
+5 Mar 2018,1,LKR,LUCKEESARAI JN,5 Mar 2018,04:50,05:50,60,60 mins late,04:52,05:52,425,True,True,Monday,Mar
+5 Mar 2018,1,MKB,MANKATHA,5 Mar 2018,05:04,06:00,56,56 mins late,05:06,06:14,431,True,True,Monday,Mar
+5 Mar 2018,1,DMRX,DUMRI,5 Mar 2018,05:14,06:22,68,68 mins late,05:15,06:23,436,False,False,Monday,Mar
+5 Mar 2018,1,BRYA,BARHIYA,5 Mar 2018,05:23,06:25,62,62 mins late,05:25,06:34,440,True,True,Monday,Mar
+5 Mar 2018,1,RDUM,RAMPUR DUMRA,5 Mar 2018,05:53,06:40,47,47 mins late,05:54,06:41,446,True,True,Monday,Mar
+5 Mar 2018,1,HTZ,HATHIDAH JN,5 Mar 2018,05:59,06:47,48,48 mins late,06:01,06:49,451,True,True,Monday,Mar
+5 Mar 2018,1,TALL,TALL JN.,5 Mar 2018,06:07,06:53,46,46 mins late,06:08,06:55,453,True,True,Monday,Mar
+5 Mar 2018,1,MKA,MOKAMEH JN,5 Mar 2018,06:21,07:01,40,40 mins late,06:23,07:03,458,True,True,Monday,Mar
+5 Mar 2018,1,MOR,MOR,5 Mar 2018,06:31,07:13,42,42 mins late,06:33,07:14,465,True,True,Monday,Mar
+5 Mar 2018,1,KNHP,KANHAIPUR,5 Mar 2018,06:39,07:20,41,41 mins late,06:40,07:21,469,False,False,Monday,Mar
+5 Mar 2018,1,MMKB,MEKRA MAMARKHABAD,5 Mar 2018,06:44,07:25,41,41 mins late,06:45,07:26,471,False,False,Monday,Mar
+5 Mar 2018,1,PHK,PUNARAKH,5 Mar 2018,06:50,07:27,37,37 mins late,06:52,07:28,474,True,True,Monday,Mar
+5 Mar 2018,1,BARH,BARH,5 Mar 2018,07:04,07:37,33,33 mins late,07:06,07:39,484,True,True,Monday,Mar
+5 Mar 2018,1,ATL,ATHMAL GOLA,5 Mar 2018,07:15,07:47,32,32 mins late,07:17,07:48,493,True,True,Monday,Mar
+5 Mar 2018,1,BKP,BAKHTIYARPUR JN,5 Mar 2018,07:35,07:58,23,23 mins late,07:40,08:00,502,True,True,Monday,Mar
+5 Mar 2018,1,TKBG,TEKA BIGHA(H),5 Mar 2018,07:49,08:06,17,17 mins late,07:50,08:09,506,True,True,Monday,Mar
+5 Mar 2018,1,SMBH,SALIM PUR BIHAR(H),5 Mar 2018,07:54,08:13,19,19 mins late,07:55,08:14,508,False,False,Monday,Mar
+5 Mar 2018,1,KWO,KARAUTA,5 Mar 2018,07:59,08:18,19,19 mins late,08:00,08:23,511,True,True,Monday,Mar
+5 Mar 2018,1,KOO,KHUSROPUR,5 Mar 2018,08:12,08:31,19,19 mins late,08:14,08:43,517,True,True,Monday,Mar
+5 Mar 2018,1,FUT,FATUHA,5 Mar 2018,08:34,08:56,22,22 mins late,08:36,08:58,525,True,True,Monday,Mar
+5 Mar 2018,1,BKG,BANKA GHAT,5 Mar 2018,08:48,09:06,18,18 mins late,08:49,09:07,531,False,False,Monday,Mar
+5 Mar 2018,1,PNC,PATNA SAHEB,5 Mar 2018,08:55,09:11,16,16 mins late,08:57,09:13,537,True,True,Monday,Mar
+5 Mar 2018,1,GZH,GULZARBAGH,5 Mar 2018,09:05,09:19,14,14 mins late,09:07,09:20,540,True,True,Monday,Mar
+5 Mar 2018,1,RJPB,RAJENDRANAGAR T,5 Mar 2018,09:20,09:27,7,7 mins late,09:22,09:28,545,True,True,Monday,Mar
+5 Mar 2018,1,PNBE,PATNA JN,5 Mar 2018,09:45,11:34,109,109 mins late,Destination,00:00,547,False,True,Monday,Mar
